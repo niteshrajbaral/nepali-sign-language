@@ -1,0 +1,2235 @@
+video_path,class_label
+split-videos/train\Khairo\20241008_093956_noise.mp4,Khairo
+split-videos/train\Sungur\20241003_090102_brightness.mp4,Sungur
+split-videos/train\Naadi\20241014_094041_rotate.mp4,Naadi
+split-videos/train\Hariyo\20241006_090638_flip.mp4,Hariyo
+split-videos/train\Guy\20241003_115910_color_jitter.mp4,Guy
+split-videos/train\Sungur\20241003_091511_slow_down.mp4,Sungur
+split-videos/train\Sungur\20241003_121315_slow_down.mp4,Sungur
+split-videos/train\Gundruk\20241003_114656_slow_down.mp4,Gundruk
+split-videos/train\Mahina\20241003_120819_noise.mp4,Mahina
+split-videos/train\Amilo\20241002_112728_speed_up.mp4,Amilo
+split-videos/train\Shau\Dataset01 (16)_speed_up.mp4,Shau
+split-videos/train\Hathi\20241014_094105_rotate.mp4,Hathi
+split-videos/train\Falful\20241002_111951_rotate.mp4,Falful
+split-videos/train\Hariyo\20241003_085630_rotate.mp4,Hariyo
+split-videos/train\Shau\20241002_104457_slow_down.mp4,Shau
+split-videos/train\Hathi\20241002_104939_slow_down.mp4,Hathi
+split-videos/train\Naadi\20241014_093021_brightness.mp4,Naadi
+split-videos/train\Kharayo\20241003_091523_flip.mp4,Kharayo
+split-videos/train\Jestha\dataset 03 (20)_rotate.mp4,Jestha
+split-videos/train\Mahina\20241006_093732_brightness.mp4,Mahina
+split-videos/train\Kharayo\dataset 03 (17)_flip.mp4,Kharayo
+split-videos/train\Khairo\20241002_111802_speed_up.mp4,Khairo
+split-videos/train\Hariyo\20241003_091247_flip.mp4,Hariyo
+split-videos/train\Falful\dataset 03 (8)_rotate.mp4,Falful
+split-videos/train\Khairo\20241002_104443_color_jitter.mp4,Khairo
+split-videos/train\Ghar\20241008_094242_noise.mp4,Ghar
+split-videos/train\Amilo\20241014_092627_slow_down.mp4,Amilo
+split-videos/train\Jestha\20241014_092519_brightness.mp4,Jestha
+split-videos/train\Falful\Dataset01 (15)_noise.mp4,Falful
+split-videos/train\Sungur\20241002_112442_brightness.mp4,Sungur
+split-videos/train\Mahina\20241008_091425_rotate.mp4,Mahina
+split-videos/train\Sungur\20241003_115932_flip.mp4,Sungur
+split-videos/train\Baisakh\Dataset01 (8)_color_jitter.mp4,Baisakh
+split-videos/train\Shau\20241008_094017_noise.mp4,Shau
+split-videos/train\Kera\20241003_121106_brightness.mp4,Kera
+split-videos/train\Shau\20241003_085731_speed_up.mp4,Shau
+split-videos/train\Naadi\20241003_121221_flip.mp4,Naadi
+split-videos/train\Poush\20241002_104330_speed_up.mp4,Poush
+split-videos/train\Amilo\20241003_115353_speed_up.mp4,Amilo
+split-videos/train\Falful\20241006_094017_rotate.mp4,Falful
+split-videos/train\Hariyo\20241002_121306_color_jitter.mp4,Hariyo
+split-videos/train\Falful\20241006_094017_noise.mp4,Falful
+split-videos/train\Khairo\20241003_091255_speed_up.mp4,Khairo
+split-videos/train\Naadi\20241006_090931_speed_up.mp4,Naadi
+split-videos/train\Amilo\20241006_084654_slow_down.mp4,Amilo
+split-videos/train\Naadi\20241014_093021_noise.mp4,Naadi
+split-videos/train\Falful\20241002_111951_noise.mp4,Falful
+split-videos/train\Naadi\20241006_090931_brightness.mp4,Naadi
+split-videos/train\Naang\20241014_094053_speed_up.mp4,Naang
+split-videos/train\Khairo\Dataset02 (12)_rotate.mp4,Khairo
+split-videos/train\Saag\20241014_093956_slow_down.mp4,Saag
+split-videos/train\Naang\20241003_085957_color_jitter.mp4,Naang
+split-videos/train\Kharayo\Dataset01 (3)_rotate.mp4,Kharayo
+split-videos/train\Hathi\20241002_104939_speed_up.mp4,Hathi
+split-videos/train\Falful\Dataset01 (15)_flip.mp4,Falful
+split-videos/train\Mahina\20241003_091140_color_jitter.mp4,Mahina
+split-videos/train\Poush\20241008_091520_speed_up.mp4,Poush
+split-videos/train\Sungur\20241008_101208_slow_down.mp4,Sungur
+split-videos/train\Baisakh\20241003_115256_rotate.mp4,Baisakh
+split-videos/train\Kharayo\dataset 03 (17)_rotate.mp4,Kharayo
+split-videos/train\Gundruk\Dataset01 (17)_rotate.mp4,Gundruk
+split-videos/train\Shau\dataset 03 (3)_speed_up.mp4,Shau
+split-videos/train\Baisakh\20241001_152325_flip.mp4,Baisakh
+split-videos/train\Hariyo\20241014_093802_speed_up.mp4,Hariyo
+split-videos/train\Sungur\dataset 03 (9)_brightness.mp4,Sungur
+split-videos/train\Mahina\20241003_091140_brightness.mp4,Mahina
+split-videos/train\Naadi\20241008_094258_speed_up.mp4,Naadi
+split-videos/train\Ghar\dataset 03 (11)_flip.mp4,Ghar
+split-videos/train\Naadi\20241014_094041_speed_up.mp4,Naadi
+split-videos/train\Ghar\20241003_115801_rotate.mp4,Ghar
+split-videos/train\Naadi\20241003_085941_color_jitter.mp4,Naadi
+split-videos/train\Poush\20241006_093822_rotate.mp4,Poush
+split-videos/train\Amilo\20241008_091534_slow_down.mp4,Amilo
+split-videos/train\Kera\20241002_104645_color_jitter.mp4,Kera
+split-videos/train\Hariyo\20241002_111737_slow_down.mp4,Hariyo
+split-videos/train\Hariyo\20241008_093942_flip.mp4,Hariyo
+split-videos/train\Kera\20241003_085814_brightness.mp4,Kera
+split-videos/train\Jestha\20241014_092519_rotate.mp4,Jestha
+split-videos/train\Amilo\Dataset02 (6)_flip.mp4,Amilo
+split-videos/train\Naadi\20241003_091428_speed_up.mp4,Naadi
+split-videos/train\Hathi\dataset 03 (14)_flip.mp4,Hathi
+split-videos/train\Mahina\20241003_120819_speed_up.mp4,Mahina
+split-videos/train\Saag\20241003_121137_rotate.mp4,Saag
+split-videos/train\Naang\20241008_101128_brightness.mp4,Naang
+split-videos/train\Shau\20241006_090711_speed_up.mp4,Shau
+split-videos/train\Falful\20241006_090751_rotate.mp4,Falful
+split-videos/train\Mahina\20241003_091140_speed_up.mp4,Mahina
+split-videos/train\Shau\20241014_092738_speed_up.mp4,Shau
+split-videos/train\Nariwal\20241014_092910_noise.mp4,Nariwal
+split-videos/train\Shau\Dataset01 (16)_color_jitter.mp4,Shau
+split-videos/train\Hathi\20241002_112348_rotate.mp4,Hathi
+split-videos/train\Guy\Dataset02 (13)_rotate.mp4,Guy
+split-videos/train\Naang\20241003_091438_color_jitter.mp4,Naang
+split-videos/train\Baisakh\20241008_100746_color_jitter.mp4,Baisakh
+split-videos/train\Hathi\20241002_104939_brightness.mp4,Hathi
+split-videos/train\Shau\20241014_093851_brightness.mp4,Shau
+split-videos/train\Jestha\20241008_093854_speed_up.mp4,Jestha
+split-videos/train\Hathi\20241008_101140_color_jitter.mp4,Hathi
+split-videos/train\Naang\dataset 03 (19)_color_jitter.mp4,Naang
+split-videos/train\Kharayo\20241014_093156_color_jitter.mp4,Kharayo
+split-videos/train\Falful\20241006_083109_speed_up.mp4,Falful
+split-videos/train\Naang\20241006_090956_noise.mp4,Naang
+split-videos/train\Khairo\Dataset02 (12)_flip.mp4,Khairo
+split-videos/train\Poush\dataset 03 (13)_noise.mp4,Poush
+split-videos/train\Khairo\20241008_091604_brightness.mp4,Khairo
+split-videos/train\Ghar\20241003_085912_slow_down.mp4,Ghar
+split-videos/train\Poush\Dataset01 (12)_color_jitter.mp4,Poush
+split-videos/train\Kharayo\20241008_091911_noise.mp4,Kharayo
+split-videos/train\Kera\20241014_092838_speed_up.mp4,Kera
+split-videos/train\Gundruk\20241008_091738_noise.mp4,Gundruk
+split-videos/train\Baisakh\Dataset02 (8)_slow_down.mp4,Baisakh
+split-videos/train\Ghar\20241006_083407_flip.mp4,Ghar
+split-videos/train\Amilo\20241001_152509_slow_down.mp4,Amilo
+split-videos/train\Falful\dataset 03 (8)_noise.mp4,Falful
+split-videos/train\Jestha\20241003_085542_noise.mp4,Jestha
+split-videos/train\Gundruk\Dataset02 (15)_color_jitter.mp4,Gundruk
+split-videos/train\Amilo\20241003_120921_brightness.mp4,Amilo
+split-videos/train\Guy\20241006_083706_slow_down.mp4,Guy
+split-videos/train\Sungur\dataset 03 (9)_rotate.mp4,Sungur
+split-videos/train\Poush\20241001_152413_slow_down.mp4,Poush
+split-videos/train\Hariyo\20241006_093857_color_jitter.mp4,Hariyo
+split-videos/train\Naadi\20241003_121221_slow_down.mp4,Naadi
+split-videos/train\Kharayo\20241014_094141_color_jitter.mp4,Kharayo
+split-videos/train\Poush\20241003_091227_color_jitter.mp4,Poush
+split-videos/train\Khairo\dataset 03 (4)_noise.mp4,Khairo
+split-videos/train\Mahina\20241014_092443_flip.mp4,Mahina
+split-videos/train\Mahina\20241006_082331_rotate.mp4,Mahina
+split-videos/train\Mahina\20241003_114215_noise.mp4,Mahina
+split-videos/train\Hathi\20241001_152926_rotate.mp4,Hathi
+split-videos/train\Jestha\20241002_111405_slow_down.mp4,Jestha
+split-videos/train\Hathi\20241008_091831_brightness.mp4,Hathi
+split-videos/train\Kera\20241014_093929_slow_down.mp4,Kera
+split-videos/train\Khairo\20241006_090654_speed_up.mp4,Khairo
+split-videos/train\Naang\20241003_091438_rotate.mp4,Naang
+split-videos/train\Jestha\20241002_121200_rotate.mp4,Jestha
+split-videos/train\Sungur\20241003_114826_flip.mp4,Sungur
+split-videos/train\Naadi\20241003_121221_color_jitter.mp4,Naadi
+split-videos/train\Saag\20241014_093956_color_jitter.mp4,Saag
+split-videos/train\Hathi\20241003_115854_slow_down.mp4,Hathi
+split-videos/train\Khairo\20241003_115444_speed_up.mp4,Khairo
+split-videos/train\Gundruk\20241008_091738_slow_down.mp4,Gundruk
+split-videos/train\Ghar\20241001_152853_speed_up.mp4,Ghar
+split-videos/train\Baisakh\20241002_121133_flip.mp4,Baisakh
+split-videos/train\Hariyo\Dataset02 (16)_flip.mp4,Hariyo
+split-videos/train\Mahina\20241014_093632_speed_up.mp4,Mahina
+split-videos/train\Naang\20241006_094223_rotate.mp4,Naang
+split-videos/train\Naang\20241002_112327_brightness.mp4,Naang
+split-videos/train\Kharayo\20241006_091107_brightness.mp4,Kharayo
+split-videos/train\Baisakh\20241014_093646_speed_up.mp4,Baisakh
+split-videos/train\Khairo\20241008_100859_color_jitter.mp4,Khairo
+split-videos/train\Hariyo\20241002_111737_brightness.mp4,Hariyo
+split-videos/train\Poush\20241008_093909_brightness.mp4,Poush
+split-videos/train\Kera\20241006_083147_color_jitter.mp4,Kera
+split-videos/train\Nariwal\20241002_121506_noise.mp4,Nariwal
+split-videos/train\Kharayo\20241008_094417_color_jitter.mp4,Kharayo
+split-videos/train\Poush\dataset 03 (13)_color_jitter.mp4,Poush
+split-videos/train\Falful\20241002_104518_speed_up.mp4,Falful
+split-videos/train\Ghar\20241014_093008_speed_up.mp4,Ghar
+split-videos/train\Baisakh\20241008_093838_color_jitter.mp4,Baisakh
+split-videos/train\Naang\20241003_091438_noise.mp4,Naang
+split-videos/train\Hariyo\20241006_093857_rotate.mp4,Hariyo
+split-videos/train\Jestha\20241006_093802_flip.mp4,Jestha
+split-videos/train\Nariwal\20241008_101009_brightness.mp4,Nariwal
+split-videos/train\Naadi\20241008_101113_speed_up.mp4,Naadi
+split-videos/train\Hathi\20241008_101140_slow_down.mp4,Hathi
+split-videos/train\Hariyo\20241003_115417_brightness.mp4,Hariyo
+split-videos/train\Khairo\Dataset01 (9)_speed_up.mp4,Khairo
+split-videos/train\Falful\Dataset01 (15)_color_jitter.mp4,Falful
+split-videos/train\Hathi\20241003_091446_flip.mp4,Hathi
+split-videos/train\Jestha\20241002_111405_brightness.mp4,Jestha
+split-videos/train\Kera\20241003_114547_rotate.mp4,Kera
+split-videos/train\Kera\20241003_121106_flip.mp4,Kera
+split-videos/train\Mahina\20241006_082331_color_jitter.mp4,Mahina
+split-videos/train\Hathi\20241002_112348_flip.mp4,Hathi
+split-videos/train\Hathi\20241006_091015_color_jitter.mp4,Hathi
+split-videos/train\Hariyo\20241006_093857_noise.mp4,Hariyo
+split-videos/train\Khairo\20241001_152614_slow_down.mp4,Khairo
+split-videos/train\Jestha\20241003_115320_noise.mp4,Jestha
+split-videos/train\Shau\20241014_093851_color_jitter.mp4,Shau
+split-videos/train\Nariwal\20241008_094202_brightness.mp4,Nariwal
+split-videos/train\Shau\20241014_092738_color_jitter.mp4,Shau
+split-videos/train\Nariwal\20241001_152800_brightness.mp4,Nariwal
+split-videos/train\Sungur\20241001_152959_flip.mp4,Sungur
+split-videos/train\Guy\dataset 03 (1)_color_jitter.mp4,Guy
+split-videos/train\Naadi\20241008_094258_rotate.mp4,Naadi
+split-videos/train\Kharayo\Dataset01 (3)_flip.mp4,Kharayo
+split-videos/train\Khairo\20241014_092719_flip.mp4,Khairo
+split-videos/train\Naadi\20241003_085941_slow_down.mp4,Naadi
+split-videos/train\Poush\20241003_114317_noise.mp4,Poush
+split-videos/train\Sungur\20241014_093143_noise.mp4,Sungur
+split-videos/train\Naadi\20241008_101113_brightness.mp4,Naadi
+split-videos/train\Falful\20241001_152707_flip.mp4,Falful
+split-videos/train\Nariwal\20241002_104734_noise.mp4,Nariwal
+split-videos/train\Gundruk\20241014_092954_speed_up.mp4,Gundruk
+split-videos/train\Saag\20241006_094105_speed_up.mp4,Saag
+split-videos/train\Hariyo\20241003_085630_flip.mp4,Hariyo
+split-videos/train\Kera\Dataset01 (20)_slow_down.mp4,Kera
+split-videos/train\Gundruk\20241003_114656_color_jitter.mp4,Gundruk
+split-videos/train\Poush\20241008_100818_noise.mp4,Poush
+split-videos/train\Baisakh\20241002_104210_color_jitter.mp4,Baisakh
+split-videos/train\Nariwal\20241006_083243_slow_down.mp4,Nariwal
+split-videos/train\Mahina\20241008_100734_slow_down.mp4,Mahina
+split-videos/train\Gundruk\Dataset01 (17)_flip.mp4,Gundruk
+split-videos/train\Baisakh\20241006_090453_noise.mp4,Baisakh
+split-videos/train\Gundruk\20241008_094608_noise.mp4,Gundruk
+split-videos/train\Amilo\20241002_121249_slow_down.mp4,Amilo
+split-videos/train\Jestha\20241003_120846_speed_up.mp4,Jestha
+split-videos/train\Poush\20241003_114317_flip.mp4,Poush
+split-videos/train\Khairo\20241014_092719_slow_down.mp4,Khairo
+split-videos/train\Guy\20241006_083706_color_jitter.mp4,Guy
+split-videos/train\Naang\20241003_115834_speed_up.mp4,Naang
+split-videos/train\Gundruk\20241001_152838_rotate.mp4,Gundruk
+split-videos/train\Shau\20241002_121343_rotate.mp4,Shau
+split-videos/train\Amilo\20241014_092627_noise.mp4,Amilo
+split-videos/train\Naadi\20241003_091428_noise.mp4,Naadi
+split-videos/train\Hariyo\20241014_092643_noise.mp4,Hariyo
+split-videos/train\Gundruk\20241006_083351_speed_up.mp4,Gundruk
+split-videos/train\Jestha\20241003_114257_flip.mp4,Jestha
+split-videos/train\Shau\20241003_085731_flip.mp4,Shau
+split-videos/train\Poush\20241014_093156_brightness.mp4,Poush
+split-videos/train\Kera\20241014_093929_flip.mp4,Kera
+split-videos/train\Nariwal\20241003_091352_brightness.mp4,Nariwal
+split-videos/train\Khairo\20241006_084850_noise.mp4,Khairo
+split-videos/train\Khairo\20241003_091255_brightness.mp4,Khairo
+split-videos/train\Poush\20241008_093909_speed_up.mp4,Poush
+split-videos/train\Hathi\20241003_121251_speed_up.mp4,Hathi
+split-videos/train\Nariwal\20241002_112125_rotate.mp4,Nariwal
+split-videos/train\Kharayo\20241006_094343_noise.mp4,Kharayo
+split-videos/train\Shau\20241008_094017_rotate.mp4,Shau
+split-videos/train\Hathi\Dataset01 (10)_brightness.mp4,Hathi
+split-videos/train\Nariwal\20241003_085829_slow_down.mp4,Nariwal
+split-videos/train\Amilo\20241014_092627_brightness.mp4,Amilo
+split-videos/train\Hariyo\20241003_115417_noise.mp4,Hariyo
+split-videos/train\Hariyo\20241003_120942_rotate.mp4,Hariyo
+split-videos/train\Saag\20241003_115728_speed_up.mp4,Saag
+split-videos/train\Hathi\Dataset02 (2)_color_jitter.mp4,Hathi
+split-videos/train\Khairo\20241003_091255_color_jitter.mp4,Khairo
+split-videos/train\Saag\20241014_092939_speed_up.mp4,Saag
+split-videos/train\Mahina\20241008_091425_slow_down.mp4,Mahina
+split-videos/train\Shau\20241003_091326_slow_down.mp4,Shau
+split-videos/train\Khairo\20241003_115444_color_jitter.mp4,Khairo
+split-videos/train\Sungur\Dataset02 (9)_slow_down.mp4,Sungur
+split-videos/train\Baisakh\Dataset02 (8)_flip.mp4,Baisakh
+split-videos/train\Gundruk\20241008_101041_rotate.mp4,Gundruk
+split-videos/train\Shau\20241003_115529_color_jitter.mp4,Shau
+split-videos/train\Hathi\20241003_114759_color_jitter.mp4,Hathi
+split-videos/train\Hathi\20241003_091446_noise.mp4,Hathi
+split-videos/train\Mahina\20241003_114215_rotate.mp4,Mahina
+split-videos/train\Poush\dataset 03 (13)_rotate.mp4,Poush
+split-videos/train\Kera\dataset 03 (15)_speed_up.mp4,Kera
+split-videos/train\Guy\20241014_094118_brightness.mp4,Guy
+split-videos/train\Jestha\20241002_121200_flip.mp4,Jestha
+split-videos/train\Ghar\20241002_121601_slow_down.mp4,Ghar
+split-videos/train\Guy\20241003_115910_noise.mp4,Guy
+split-videos/train\Kharayo\20241008_091911_color_jitter.mp4,Kharayo
+split-videos/train\Jestha\Dataset01 (18)_flip.mp4,Jestha
+split-videos/train\Naadi\20241006_083547_rotate.mp4,Naadi
+split-videos/train\Kera\20241002_112105_noise.mp4,Kera
+split-videos/train\Falful\20241003_085753_rotate.mp4,Falful
+split-videos/train\Sungur\20241014_093143_speed_up.mp4,Sungur
+split-videos/train\Gundruk\20241002_121547_noise.mp4,Gundruk
+split-videos/train\Jestha\20241008_093854_brightness.mp4,Jestha
+split-videos/train\Jestha\20241008_091507_noise.mp4,Jestha
+split-videos/train\Kera\20241003_115639_rotate.mp4,Kera
+split-videos/train\Sungur\dataset 03 (9)_slow_down.mp4,Sungur
+split-videos/train\Hariyo\20241006_090638_noise.mp4,Hariyo
+split-videos/train\Falful\Dataset01 (15)_slow_down.mp4,Falful
+split-videos/train\Poush\20241002_121218_rotate.mp4,Poush
+split-videos/train\Ghar\Dataset02 (1)_color_jitter.mp4,Ghar
+split-videos/train\Jestha\20241006_082542_rotate.mp4,Jestha
+split-videos/train\Shau\20241014_092738_noise.mp4,Shau
+split-videos/train\Naadi\20241001_152909_brightness.mp4,Naadi
+split-videos/train\Nariwal\dataset 03 (7)_rotate.mp4,Nariwal
+split-videos/train\Kera\20241003_091342_rotate.mp4,Kera
+split-videos/train\Baisakh\20241003_114239_slow_down.mp4,Baisakh
+split-videos/train\Mahina\Dataset01 (13)_rotate.mp4,Mahina
+split-videos/train\Baisakh\Dataset02 (8)_speed_up.mp4,Baisakh
+split-videos/train\Jestha\20241003_114257_noise.mp4,Jestha
+split-videos/train\Baisakh\Dataset01 (8)_speed_up.mp4,Baisakh
+split-videos/train\Saag\20241008_091724_rotate.mp4,Saag
+split-videos/train\Ghar\20241003_114711_noise.mp4,Ghar
+split-videos/train\Saag\20241006_083308_flip.mp4,Saag
+split-videos/train\Kera\Dataset02 (4)_rotate.mp4,Kera
+split-videos/train\Khairo\20241006_090654_noise.mp4,Khairo
+split-videos/train\Amilo\20241006_094559_color_jitter.mp4,Amilo
+split-videos/train\Poush\Dataset01 (12)_noise.mp4,Poush
+split-videos/train\Khairo\20241008_091604_rotate.mp4,Khairo
+split-videos/train\Kera\20241003_114547_brightness.mp4,Kera
+split-videos/train\Kera\20241014_092838_color_jitter.mp4,Kera
+split-videos/train\Falful\20241014_093907_slow_down.mp4,Falful
+split-videos/train\Mahina\20241006_093732_color_jitter.mp4,Mahina
+split-videos/train\Guy\20241008_091843_color_jitter.mp4,Guy
+split-videos/train\Sungur\20241003_121315_speed_up.mp4,Sungur
+split-videos/train\Naadi\20241003_115819_noise.mp4,Naadi
+split-videos/train\Guy\20241014_094118_noise.mp4,Guy
+split-videos/train\Sungur\20241008_094405_brightness.mp4,Sungur
+split-videos/train\Shau\dataset 03 (3)_flip.mp4,Shau
+split-videos/train\Poush\20241002_104330_noise.mp4,Poush
+split-videos/train\Khairo\20241002_121327_rotate.mp4,Khairo
+split-videos/train\Kharayo\20241003_115946_flip.mp4,Kharayo
+split-videos/train\Jestha\20241006_093802_rotate.mp4,Jestha
+split-videos/train\Khairo\20241001_152614_speed_up.mp4,Khairo
+split-videos/train\Guy\20241014_093129_rotate.mp4,Guy
+split-videos/train\Naadi\20241006_090931_slow_down.mp4,Naadi
+split-videos/train\Naang\20241014_094053_noise.mp4,Naang
+split-videos/train\Kera\20241014_092838_flip.mp4,Kera
+split-videos/train\Shau\20241008_100913_noise.mp4,Shau
+split-videos/train\Mahina\20241014_093632_slow_down.mp4,Mahina
+split-videos/train\Hathi\20241006_083647_flip.mp4,Hathi
+split-videos/train\Amilo\dataset 03 (2)_rotate.mp4,Amilo
+split-videos/train\Amilo\20241006_084654_brightness.mp4,Amilo
+split-videos/train\Poush\Dataset02 (19)_flip.mp4,Poush
+split-videos/train\Naang\20241008_091819_rotate.mp4,Naang
+split-videos/train\Naang\dataset 03 (19)_brightness.mp4,Naang
+split-videos/train\Baisakh\20241008_091447_speed_up.mp4,Baisakh
+split-videos/train\Gundruk\20241003_114656_speed_up.mp4,Gundruk
+split-videos/train\Kera\20241003_115639_noise.mp4,Kera
+split-videos/train\Jestha\Dataset02 (5)_speed_up.mp4,Jestha
+split-videos/train\Khairo\20241003_115444_brightness.mp4,Khairo
+split-videos/train\Nariwal\20241002_121506_slow_down.mp4,Nariwal
+split-videos/train\Jestha\20241006_093802_speed_up.mp4,Jestha
+split-videos/train\Naang\20241002_112327_color_jitter.mp4,Naang
+split-videos/train\Sungur\20241003_121315_rotate.mp4,Sungur
+split-videos/train\Falful\20241002_121409_brightness.mp4,Falful
+split-videos/train\Poush\20241006_090532_noise.mp4,Poush
+split-videos/train\Nariwal\20241003_085829_noise.mp4,Nariwal
+split-videos/train\Amilo\20241001_152509_speed_up.mp4,Amilo
+split-videos/train\Falful\20241006_094017_brightness.mp4,Falful
+split-videos/train\Naang\20241003_121235_noise.mp4,Naang
+split-videos/train\Kharayo\20241003_114839_speed_up.mp4,Kharayo
+split-videos/train\Nariwal\20241003_121122_noise.mp4,Nariwal
+split-videos/train\Naang\Dataset02 (3)_noise.mp4,Naang
+split-videos/train\Nariwal\20241006_090828_color_jitter.mp4,Nariwal
+split-videos/train\Saag\Dataset01 (5)_brightness.mp4,Saag
+split-videos/train\Guy\20241014_093129_flip.mp4,Guy
+split-videos/train\Mahina\20241002_104155_flip.mp4,Mahina
+split-videos/train\Nariwal\dataset 03 (7)_color_jitter.mp4,Nariwal
+split-videos/train\Poush\Dataset02 (19)_rotate.mp4,Poush
+split-videos/train\Ghar\20241003_114711_rotate.mp4,Ghar
+split-videos/train\Guy\dataset 03 (1)_rotate.mp4,Guy
+split-videos/train\Nariwal\20241008_101009_speed_up.mp4,Nariwal
+split-videos/train\Mahina\20241001_153334_color_jitter.mp4,Mahina
+split-videos/train\Ghar\Dataset02 (1)_brightness.mp4,Ghar
+split-videos/train\Shau\20241006_084540_color_jitter.mp4,Shau
+split-videos/train\Guy\Dataset01 (11)_brightness.mp4,Guy
+split-videos/train\Shau\20241008_091616_rotate.mp4,Shau
+split-videos/train\Naadi\20241008_094258_flip.mp4,Naadi
+split-videos/train\Khairo\20241002_111802_slow_down.mp4,Khairo
+split-videos/train\Falful\20241002_121409_noise.mp4,Falful
+split-videos/train\Guy\20241002_121733_flip.mp4,Guy
+split-videos/train\Kharayo\Dataset02 (10)_brightness.mp4,Kharayo
+split-videos/train\Amilo\20241014_092627_color_jitter.mp4,Amilo
+split-videos/train\Sungur\20241014_094128_rotate.mp4,Sungur
+split-videos/train\Hathi\20241014_093111_color_jitter.mp4,Hathi
+split-videos/train\Shau\20241003_085731_color_jitter.mp4,Shau
+split-videos/train\Mahina\20241002_111452_flip.mp4,Mahina
+split-videos/train\Hariyo\dataset 03 (16)_rotate.mp4,Hariyo
+split-videos/train\Nariwal\20241003_114603_speed_up.mp4,Nariwal
+split-videos/train\Mahina\Dataset02 (18)_noise.mp4,Mahina
+split-videos/train\Kharayo\20241008_094417_rotate.mp4,Kharayo
+split-videos/train\Naang\dataset 03 (19)_noise.mp4,Naang
+split-videos/train\Kera\20241002_112105_flip.mp4,Kera
+split-videos/train\Ghar\20241003_091420_speed_up.mp4,Ghar
+split-videos/train\Ghar\20241006_090918_noise.mp4,Ghar
+split-videos/train\Hariyo\20241002_104419_brightness.mp4,Hariyo
+split-videos/train\Gundruk\20241008_101041_slow_down.mp4,Gundruk
+split-videos/train\Naadi\20241006_090931_flip.mp4,Naadi
+split-videos/train\Hathi\20241001_152926_slow_down.mp4,Hathi
+split-videos/train\Ghar\20241008_091749_brightness.mp4,Ghar
+split-videos/train\Kharayo\20241006_094343_brightness.mp4,Kharayo
+split-videos/train\Kera\20241008_091655_rotate.mp4,Kera
+split-videos/train\Guy\Dataset02 (13)_color_jitter.mp4,Guy
+split-videos/train\Naadi\20241006_094201_brightness.mp4,Naadi
+split-videos/train\Naang\20241014_094053_brightness.mp4,Naang
+split-videos/train\Ghar\20241014_093008_noise.mp4,Ghar
+split-videos/train\Hariyo\20241003_091247_rotate.mp4,Hariyo
+split-videos/train\Sungur\20241002_112442_rotate.mp4,Sungur
+split-videos/train\Shau\20241003_121017_rotate.mp4,Shau
+split-videos/train\Jestha\20241006_090517_speed_up.mp4,Jestha
+split-videos/train\Poush\20241003_115333_noise.mp4,Poush
+split-videos/train\Guy\20241003_090032_noise.mp4,Guy
+split-videos/train\Hariyo\20241003_091247_speed_up.mp4,Hariyo
+split-videos/train\Hathi\20241014_094105_slow_down.mp4,Hathi
+split-videos/train\Gundruk\dataset 03 (10)_flip.mp4,Gundruk
+split-videos/train\Saag\20241003_091401_flip.mp4,Saag
+split-videos/train\Amilo\20241002_112728_rotate.mp4,Amilo
+split-videos/train\Naang\20241008_101128_rotate.mp4,Naang
+split-videos/train\Kera\20241008_094124_color_jitter.mp4,Kera
+split-videos/train\Saag\Dataset01 (5)_flip.mp4,Saag
+split-videos/train\Shau\20241006_090711_flip.mp4,Shau
+split-videos/train\Falful\20241014_093907_noise.mp4,Falful
+split-videos/train\Poush\20241003_115333_flip.mp4,Poush
+split-videos/train\Nariwal\20241003_115701_slow_down.mp4,Nariwal
+split-videos/train\Shau\20241002_121343_speed_up.mp4,Shau
+split-videos/train\Ghar\20241002_121601_brightness.mp4,Ghar
+split-videos/train\Kera\20241003_114547_speed_up.mp4,Kera
+split-videos/train\Poush\20241008_093909_noise.mp4,Poush
+split-videos/train\Hathi\20241008_094339_color_jitter.mp4,Hathi
+split-videos/train\Poush\Dataset01 (12)_slow_down.mp4,Poush
+split-videos/train\Kharayo\20241008_101220_brightness.mp4,Kharayo
+split-videos/train\Nariwal\20241003_091352_speed_up.mp4,Nariwal
+split-videos/train\Sungur\20241006_094319_speed_up.mp4,Sungur
+split-videos/train\Baisakh\20241008_100746_speed_up.mp4,Baisakh
+split-videos/train\Jestha\20241002_104255_speed_up.mp4,Jestha
+split-videos/train\Ghar\20241002_104835_slow_down.mp4,Ghar
+split-videos/train\Hariyo\20241003_114416_rotate.mp4,Hariyo
+split-videos/train\Jestha\20241003_115320_rotate.mp4,Jestha
+split-videos/train\Shau\20241006_084540_speed_up.mp4,Shau
+split-videos/train\Poush\dataset 03 (13)_brightness.mp4,Poush
+split-videos/train\Jestha\20241014_093706_color_jitter.mp4,Jestha
+split-videos/train\Falful\20241006_090751_slow_down.mp4,Falful
+split-videos/train\Hariyo\20241006_090638_speed_up.mp4,Hariyo
+split-videos/train\Hathi\20241001_152926_noise.mp4,Hathi
+split-videos/train\Amilo\20241003_085616_brightness.mp4,Amilo
+split-videos/train\Sungur\20241003_090102_flip.mp4,Sungur
+split-videos/train\Naang\20241008_101128_slow_down.mp4,Naang
+split-videos/train\Naadi\dataset 03 (12)_noise.mp4,Naadi
+split-videos/train\Kera\20241008_094124_flip.mp4,Kera
+split-videos/train\Sungur\20241006_091040_flip.mp4,Sungur
+split-videos/train\Shau\20241008_091616_speed_up.mp4,Shau
+split-videos/train\Poush\20241003_115333_speed_up.mp4,Poush
+split-videos/train\Poush\20241003_085559_speed_up.mp4,Poush
+split-videos/train\Nariwal\20241008_091712_noise.mp4,Nariwal
+split-videos/train\Naadi\20241006_090931_rotate.mp4,Naadi
+split-videos/train\Shau\20241008_100913_speed_up.mp4,Shau
+split-videos/train\Poush\20241003_114317_slow_down.mp4,Poush
+split-videos/train\Hariyo\20241014_092643_brightness.mp4,Hariyo
+split-videos/train\Ghar\20241008_091749_slow_down.mp4,Ghar
+split-videos/train\Nariwal\20241002_112125_flip.mp4,Nariwal
+split-videos/train\Gundruk\Dataset02 (15)_rotate.mp4,Gundruk
+split-videos/train\Baisakh\20241002_111535_rotate.mp4,Baisakh
+split-videos/train\Gundruk\20241008_101041_brightness.mp4,Gundruk
+split-videos/train\Mahina\20241002_121057_brightness.mp4,Mahina
+split-videos/train\Naang\20241006_090956_color_jitter.mp4,Naang
+split-videos/train\Kera\20241006_094034_color_jitter.mp4,Kera
+split-videos/train\Hathi\20241014_094105_noise.mp4,Hathi
+split-videos/train\Khairo\20241006_093930_speed_up.mp4,Khairo
+split-videos/train\Hariyo\dataset 03 (16)_color_jitter.mp4,Hariyo
+split-videos/train\Shau\20241008_091616_noise.mp4,Shau
+split-videos/train\Baisakh\20241001_152325_speed_up.mp4,Baisakh
+split-videos/train\Amilo\20241003_114358_speed_up.mp4,Amilo
+split-videos/train\Nariwal\20241006_094048_slow_down.mp4,Nariwal
+split-videos/train\Amilo\Dataset02 (6)_rotate.mp4,Amilo
+split-videos/train\Sungur\20241002_121752_rotate.mp4,Sungur
+split-videos/train\Falful\20241003_121040_flip.mp4,Falful
+split-videos/train\Khairo\20241006_090654_flip.mp4,Khairo
+split-videos/train\Ghar\20241002_104835_noise.mp4,Ghar
+split-videos/train\Amilo\20241006_090618_flip.mp4,Amilo
+split-videos/train\Naadi\20241003_121221_rotate.mp4,Naadi
+split-videos/train\Kharayo\20241003_121326_noise.mp4,Kharayo
+split-videos/train\Guy\20241002_104953_color_jitter.mp4,Guy
+split-videos/train\Naadi\20241003_115819_rotate.mp4,Naadi
+split-videos/train\Hathi\Dataset02 (2)_brightness.mp4,Hathi
+split-videos/train\Naang\20241003_115834_flip.mp4,Naang
+split-videos/train\Nariwal\dataset 03 (7)_flip.mp4,Nariwal
+split-videos/train\Guy\20241006_091028_speed_up.mp4,Guy
+split-videos/train\Gundruk\20241002_104820_rotate.mp4,Gundruk
+split-videos/train\Nariwal\20241003_091352_noise.mp4,Nariwal
+split-videos/train\Mahina\20241006_090436_slow_down.mp4,Mahina
+split-videos/train\Nariwal\20241014_093944_color_jitter.mp4,Nariwal
+split-videos/train\Kera\20241003_091342_brightness.mp4,Kera
+split-videos/train\Naadi\20241003_114728_flip.mp4,Naadi
+split-videos/train\Poush\20241002_121218_color_jitter.mp4,Poush
+split-videos/train\Mahina\20241014_093632_noise.mp4,Mahina
+split-videos/train\Guy\20241002_112412_brightness.mp4,Guy
+split-videos/train\Kera\20241003_115639_brightness.mp4,Kera
+split-videos/train\Mahina\dataset 03 (18)_flip.mp4,Mahina
+split-videos/train\Saag\20241008_101024_flip.mp4,Saag
+split-videos/train\Sungur\20241001_152959_color_jitter.mp4,Sungur
+split-videos/train\Hariyo\20241014_093802_brightness.mp4,Hariyo
+split-videos/train\Nariwal\20241003_085829_speed_up.mp4,Nariwal
+split-videos/train\Mahina\20241001_153334_slow_down.mp4,Mahina
+split-videos/train\Mahina\20241006_090436_brightness.mp4,Mahina
+split-videos/train\Gundruk\Dataset01 (17)_noise.mp4,Gundruk
+split-videos/train\Saag\Dataset01 (5)_noise.mp4,Saag
+split-videos/train\Hathi\20241008_094339_rotate.mp4,Hathi
+split-videos/train\Falful\dataset 03 (8)_brightness.mp4,Falful
+split-videos/train\Jestha\Dataset01 (18)_color_jitter.mp4,Jestha
+split-videos/train\Sungur\20241002_105015_color_jitter.mp4,Sungur
+split-videos/train\Hariyo\20241006_082918_noise.mp4,Hariyo
+split-videos/train\Kharayo\20241008_091911_speed_up.mp4,Kharayo
+split-videos/train\Saag\20241014_093956_speed_up.mp4,Saag
+split-videos/train\Ghar\Dataset01 (4)_speed_up.mp4,Ghar
+split-videos/train\Amilo\20241002_104402_brightness.mp4,Amilo
+split-videos/train\Guy\20241008_101153_rotate.mp4,Guy
+split-videos/train\Hariyo\20241014_093802_color_jitter.mp4,Hariyo
+split-videos/train\Guy\20241003_121306_brightness.mp4,Guy
+split-videos/train\Falful\20241002_104518_noise.mp4,Falful
+split-videos/train\Hariyo\20241003_120942_flip.mp4,Hariyo
+split-videos/train\Baisakh\20241008_100746_brightness.mp4,Baisakh
+split-videos/train\Mahina\20241006_082331_flip.mp4,Mahina
+split-videos/train\Nariwal\Dataset02 (14)_flip.mp4,Nariwal
+split-videos/train\Shau\20241006_093952_brightness.mp4,Shau
+split-videos/train\Kera\dataset 03 (15)_rotate.mp4,Kera
+split-videos/train\Khairo\20241003_121000_speed_up.mp4,Khairo
+split-videos/train\Kharayo\20241002_112500_speed_up.mp4,Kharayo
+split-videos/train\Khairo\20241008_091604_slow_down.mp4,Khairo
+split-videos/train\Kera\20241003_115639_slow_down.mp4,Kera
+split-videos/train\Shau\20241006_084540_noise.mp4,Shau
+split-videos/train\Kera\20241008_101314_speed_up.mp4,Kera
+split-videos/train\Ghar\20241008_101056_slow_down.mp4,Ghar
+split-videos/train\Naadi\20241003_091428_color_jitter.mp4,Naadi
+split-videos/train\Baisakh\20241006_093749_rotate.mp4,Baisakh
+split-videos/train\Amilo\20241003_115353_slow_down.mp4,Amilo
+split-videos/train\Hathi\20241003_121251_rotate.mp4,Hathi
+split-videos/train\Guy\20241006_091028_flip.mp4,Guy
+split-videos/train\Kharayo\20241002_121814_color_jitter.mp4,Kharayo
+split-videos/train\Kera\20241003_091342_color_jitter.mp4,Kera
+split-videos/train\Poush\20241014_093733_slow_down.mp4,Poush
+split-videos/train\Naadi\20241008_091800_color_jitter.mp4,Naadi
+split-videos/train\Jestha\20241002_104255_color_jitter.mp4,Jestha
+split-videos/train\Guy\20241002_112412_color_jitter.mp4,Guy
+split-videos/train\Naang\Dataset01 (6)_color_jitter.mp4,Naang
+split-videos/train\Guy\20241003_114813_noise.mp4,Guy
+split-videos/train\Mahina\20241003_091140_slow_down.mp4,Mahina
+split-videos/train\Sungur\20241006_094319_rotate.mp4,Sungur
+split-videos/train\Baisakh\dataset 03 (6)_slow_down.mp4,Baisakh
+split-videos/train\Jestha\20241006_093802_slow_down.mp4,Jestha
+split-videos/train\Khairo\20241014_093822_color_jitter.mp4,Khairo
+split-videos/train\Guy\20241006_094307_color_jitter.mp4,Guy
+split-videos/train\Baisakh\20241014_092505_color_jitter.mp4,Baisakh
+split-videos/train\Kharayo\20241006_091107_slow_down.mp4,Kharayo
+split-videos/train\Saag\20241006_090850_color_jitter.mp4,Saag
+split-videos/train\Hariyo\20241002_121306_rotate.mp4,Hariyo
+split-videos/train\Shau\20241008_094017_color_jitter.mp4,Shau
+split-videos/train\Baisakh\dataset 03 (6)_color_jitter.mp4,Baisakh
+split-videos/train\Guy\20241003_091501_color_jitter.mp4,Guy
+split-videos/train\Naang\20241003_114745_color_jitter.mp4,Naang
+split-videos/train\Naadi\20241002_121624_brightness.mp4,Naadi
+split-videos/train\Nariwal\20241001_152800_rotate.mp4,Nariwal
+split-videos/train\Gundruk\20241008_094608_flip.mp4,Gundruk
+split-videos/train\Falful\20241003_121040_noise.mp4,Falful
+split-videos/train\Amilo\Dataset02 (6)_color_jitter.mp4,Amilo
+split-videos/train\Jestha\20241003_120846_noise.mp4,Jestha
+split-videos/train\Mahina\20241002_104155_noise.mp4,Mahina
+split-videos/train\Naadi\Dataset02 (20)_flip.mp4,Naadi
+split-videos/train\Naadi\20241006_083547_slow_down.mp4,Naadi
+split-videos/train\Kharayo\20241014_093156_flip.mp4,Kharayo
+split-videos/train\Hariyo\20241002_104419_speed_up.mp4,Hariyo
+split-videos/train\Gundruk\20241006_090905_speed_up.mp4,Gundruk
+split-videos/train\Jestha\Dataset02 (5)_slow_down.mp4,Jestha
+split-videos/train\Hathi\20241014_093111_slow_down.mp4,Hathi
+split-videos/train\Poush\20241001_152413_rotate.mp4,Poush
+split-videos/train\Jestha\20241002_104255_flip.mp4,Jestha
+split-videos/train\Poush\20241002_121218_noise.mp4,Poush
+split-videos/train\Baisakh\20241014_092505_slow_down.mp4,Baisakh
+split-videos/train\Khairo\20241001_152614_rotate.mp4,Khairo
+split-videos/train\Poush\20241014_093156_rotate.mp4,Poush
+split-videos/train\Falful\20241002_104518_color_jitter.mp4,Falful
+split-videos/train\Hariyo\20241002_104419_flip.mp4,Hariyo
+split-videos/train\Amilo\20241002_104402_noise.mp4,Amilo
+split-videos/train\Falful\20241002_104518_slow_down.mp4,Falful
+split-videos/train\Kera\20241014_092838_brightness.mp4,Kera
+split-videos/train\Poush\20241008_100818_flip.mp4,Poush
+split-videos/train\Khairo\20241008_091604_noise.mp4,Khairo
+split-videos/train\Poush\20241006_082626_flip.mp4,Poush
+split-videos/train\Kera\20241003_121106_color_jitter.mp4,Kera
+split-videos/train\Gundruk\20241002_121547_slow_down.mp4,Gundruk
+split-videos/train\Jestha\20241003_120846_flip.mp4,Jestha
+split-videos/train\Hariyo\dataset 03 (16)_slow_down.mp4,Hariyo
+split-videos/train\Jestha\20241002_104255_noise.mp4,Jestha
+split-videos/train\Hathi\dataset 03 (14)_rotate.mp4,Hathi
+split-videos/train\Falful\20241008_100938_brightness.mp4,Falful
+split-videos/train\Gundruk\20241006_094118_brightness.mp4,Gundruk
+split-videos/train\Nariwal\20241014_092910_flip.mp4,Nariwal
+split-videos/train\Amilo\20241006_090618_color_jitter.mp4,Amilo
+split-videos/train\Shau\20241008_091616_flip.mp4,Shau
+split-videos/train\Nariwal\20241003_114603_slow_down.mp4,Nariwal
+split-videos/train\Khairo\20241002_111802_color_jitter.mp4,Khairo
+split-videos/train\Shau\20241006_093952_color_jitter.mp4,Shau
+split-videos/train\Poush\Dataset01 (12)_flip.mp4,Poush
+split-videos/train\Kera\20241003_114547_color_jitter.mp4,Kera
+split-videos/train\Naang\20241003_091438_speed_up.mp4,Naang
+split-videos/train\Shau\20241002_104457_speed_up.mp4,Shau
+split-videos/train\Saag\20241006_090850_speed_up.mp4,Saag
+split-videos/train\Shau\20241006_084540_slow_down.mp4,Shau
+split-videos/train\Naadi\20241008_091800_rotate.mp4,Naadi
+split-videos/train\Hathi\dataset 03 (14)_slow_down.mp4,Hathi
+split-videos/train\Naadi\20241006_094201_speed_up.mp4,Naadi
+split-videos/train\Naang\20241002_121652_slow_down.mp4,Naang
+split-videos/train\Naadi\20241002_121624_slow_down.mp4,Naadi
+split-videos/train\Kera\20241006_094034_flip.mp4,Kera
+split-videos/train\Jestha\20241008_093854_slow_down.mp4,Jestha
+split-videos/train\Amilo\20241006_084654_color_jitter.mp4,Amilo
+split-videos/train\Gundruk\20241006_094118_rotate.mp4,Gundruk
+split-videos/train\Naang\20241002_121652_rotate.mp4,Naang
+split-videos/train\Hariyo\20241001_152548_rotate.mp4,Hariyo
+split-videos/train\Naang\20241008_094311_noise.mp4,Naang
+split-videos/train\Shau\20241008_100913_rotate.mp4,Shau
+split-videos/train\Sungur\20241003_115932_brightness.mp4,Sungur
+split-videos/train\Baisakh\20241006_093749_color_jitter.mp4,Baisakh
+split-videos/train\Khairo\20241003_114431_flip.mp4,Khairo
+split-videos/train\Naang\20241006_090956_speed_up.mp4,Naang
+split-videos/train\Sungur\20241008_101208_brightness.mp4,Sungur
+split-videos/train\Kera\dataset 03 (15)_flip.mp4,Kera
+split-videos/train\Poush\20241008_100818_rotate.mp4,Poush
+split-videos/train\Khairo\20241002_104443_flip.mp4,Khairo
+split-videos/train\Nariwal\20241003_085829_brightness.mp4,Nariwal
+split-videos/train\Sungur\Dataset02 (9)_color_jitter.mp4,Sungur
+split-videos/train\Guy\20241002_112412_slow_down.mp4,Guy
+split-videos/train\Naang\20241006_083630_brightness.mp4,Naang
+split-videos/train\Mahina\20241003_114215_speed_up.mp4,Mahina
+split-videos/train\Naadi\dataset 03 (12)_speed_up.mp4,Naadi
+split-videos/train\Kharayo\20241002_105042_brightness.mp4,Kharayo
+split-videos/train\Gundruk\20241003_091411_rotate.mp4,Gundruk
+split-videos/train\Khairo\20241003_114431_color_jitter.mp4,Khairo
+split-videos/train\Gundruk\20241002_112212_color_jitter.mp4,Gundruk
+split-videos/train\Hathi\20241002_121708_rotate.mp4,Hathi
+split-videos/train\Shau\20241002_111824_brightness.mp4,Shau
+split-videos/train\Guy\20241008_101153_noise.mp4,Guy
+split-videos/train\Hariyo\dataset 03 (16)_speed_up.mp4,Hariyo
+split-videos/train\Saag\20241008_101024_rotate.mp4,Saag
+split-videos/train\Amilo\20241008_100833_color_jitter.mp4,Amilo
+split-videos/train\Kera\20241014_093929_color_jitter.mp4,Kera
+split-videos/train\Gundruk\20241006_090905_slow_down.mp4,Gundruk
+split-videos/train\Guy\20241003_091501_flip.mp4,Guy
+split-videos/train\Kera\20241006_090812_flip.mp4,Kera
+split-videos/train\Sungur\20241003_115932_speed_up.mp4,Sungur
+split-videos/train\Amilo\20241003_120921_slow_down.mp4,Amilo
+split-videos/train\Sungur\20241008_094405_flip.mp4,Sungur
+split-videos/train\Naang\20241002_121652_flip.mp4,Naang
+split-videos/train\Shau\Dataset01 (16)_slow_down.mp4,Shau
+split-videos/train\Gundruk\20241014_092954_noise.mp4,Gundruk
+split-videos/train\Hariyo\20241001_152548_slow_down.mp4,Hariyo
+split-videos/train\Gundruk\20241002_104820_brightness.mp4,Gundruk
+split-videos/train\Kera\20241002_121447_slow_down.mp4,Kera
+split-videos/train\Kera\Dataset02 (4)_brightness.mp4,Kera
+split-videos/train\Hariyo\20241014_092643_color_jitter.mp4,Hariyo
+split-videos/train\Sungur\Dataset01 (19)_slow_down.mp4,Sungur
+split-videos/train\Falful\20241008_100938_rotate.mp4,Falful
+split-videos/train\Naadi\20241003_091428_brightness.mp4,Naadi
+split-videos/train\Saag\20241006_094105_flip.mp4,Saag
+split-videos/train\Saag\20241002_104755_flip.mp4,Saag
+split-videos/train\Ghar\20241003_085912_brightness.mp4,Ghar
+split-videos/train\Mahina\20241002_104155_speed_up.mp4,Mahina
+split-videos/train\Naang\20241003_114745_rotate.mp4,Naang
+split-videos/train\Ghar\20241014_094026_speed_up.mp4,Ghar
+split-videos/train\Mahina\20241003_085500_speed_up.mp4,Mahina
+split-videos/train\Saag\20241006_094105_color_jitter.mp4,Saag
+split-videos/train\Jestha\20241003_120846_rotate.mp4,Jestha
+split-videos/train\Amilo\20241003_091237_brightness.mp4,Amilo
+split-videos/train\Khairo\20241014_093822_flip.mp4,Khairo
+split-videos/train\Baisakh\dataset 03 (6)_flip.mp4,Baisakh
+split-videos/train\Jestha\20241003_120846_brightness.mp4,Jestha
+split-videos/train\Falful\20241002_121409_rotate.mp4,Falful
+split-videos/train\Saag\dataset 03 (5)_brightness.mp4,Saag
+split-videos/train\Shau\20241002_111824_flip.mp4,Shau
+split-videos/train\Hathi\20241014_094105_brightness.mp4,Hathi
+split-videos/train\Sungur\20241014_093143_slow_down.mp4,Sungur
+split-videos/train\Hariyo\Dataset01 (7)_noise.mp4,Hariyo
+split-videos/train\Ghar\20241008_094242_speed_up.mp4,Ghar
+split-videos/train\Sungur\20241002_105015_speed_up.mp4,Sungur
+split-videos/train\Sungur\20241003_091511_noise.mp4,Sungur
+split-videos/train\Hariyo\20241006_093857_flip.mp4,Hariyo
+split-videos/train\Saag\20241002_121527_noise.mp4,Saag
+split-videos/train\Gundruk\20241006_090905_color_jitter.mp4,Gundruk
+split-videos/train\Saag\20241003_121137_noise.mp4,Saag
+split-videos/train\Amilo\20241006_090618_noise.mp4,Amilo
+split-videos/train\Amilo\20241014_092627_flip.mp4,Amilo
+split-videos/train\Sungur\20241003_115932_noise.mp4,Sungur
+split-videos/train\Saag\20241003_114639_brightness.mp4,Saag
+split-videos/train\Guy\20241001_152941_slow_down.mp4,Guy
+split-videos/train\Naadi\20241002_112309_noise.mp4,Naadi
+split-videos/train\Naadi\20241003_115819_color_jitter.mp4,Naadi
+split-videos/train\Amilo\dataset 03 (2)_speed_up.mp4,Amilo
+split-videos/train\Naadi\20241008_101113_flip.mp4,Naadi
+split-videos/train\Sungur\20241002_105015_slow_down.mp4,Sungur
+split-videos/train\Baisakh\dataset 03 (6)_noise.mp4,Baisakh
+split-videos/train\Kharayo\20241006_091107_color_jitter.mp4,Kharayo
+split-videos/train\Falful\20241001_152707_rotate.mp4,Falful
+split-videos/train\Ghar\Dataset02 (1)_flip.mp4,Ghar
+split-videos/train\Naadi\20241003_085941_speed_up.mp4,Naadi
+split-videos/train\Amilo\20241002_121249_noise.mp4,Amilo
+split-videos/train\Ghar\20241006_083407_color_jitter.mp4,Ghar
+split-videos/train\Gundruk\20241008_101041_color_jitter.mp4,Gundruk
+split-videos/train\Hariyo\20241008_091552_brightness.mp4,Hariyo
+split-videos/train\Ghar\20241003_121202_flip.mp4,Ghar
+split-videos/train\Shau\Dataset01 (16)_noise.mp4,Shau
+split-videos/train\Falful\Dataset02 (7)_speed_up.mp4,Falful
+split-videos/train\Gundruk\20241006_090905_flip.mp4,Gundruk
+split-videos/train\Poush\20241006_090532_speed_up.mp4,Poush
+split-videos/train\Hariyo\20241008_100845_brightness.mp4,Hariyo
+split-videos/train\Amilo\20241006_094559_flip.mp4,Amilo
+split-videos/train\Shau\20241003_115529_flip.mp4,Shau
+split-videos/train\Kharayo\20241014_094141_speed_up.mp4,Kharayo
+split-videos/train\Gundruk\20241006_090905_brightness.mp4,Gundruk
+split-videos/train\Amilo\20241001_152509_rotate.mp4,Amilo
+split-videos/train\Jestha\20241014_093706_flip.mp4,Jestha
+split-videos/train\Kera\20241003_115639_flip.mp4,Kera
+split-videos/train\Naang\20241002_104920_flip.mp4,Naang
+split-videos/train\Baisakh\20241006_082424_flip.mp4,Baisakh
+split-videos/train\Jestha\20241014_092519_flip.mp4,Jestha
+split-videos/train\Hariyo\20241014_093802_flip.mp4,Hariyo
+split-videos/train\Saag\20241006_090850_flip.mp4,Saag
+split-videos/train\Saag\20241003_121137_speed_up.mp4,Saag
+split-videos/train\Kharayo\20241002_105042_color_jitter.mp4,Kharayo
+split-videos/train\Hariyo\20241006_090638_rotate.mp4,Hariyo
+split-videos/train\Hathi\20241003_115854_noise.mp4,Hathi
+split-videos/train\Nariwal\20241006_083243_flip.mp4,Nariwal
+split-videos/train\Baisakh\20241002_104210_rotate.mp4,Baisakh
+split-videos/train\Kera\20241002_121447_speed_up.mp4,Kera
+split-videos/train\Ghar\20241006_083407_rotate.mp4,Ghar
+split-videos/train\Hathi\dataset 03 (14)_speed_up.mp4,Hathi
+split-videos/train\Jestha\20241008_091507_flip.mp4,Jestha
+split-videos/train\Falful\20241003_091334_brightness.mp4,Falful
+split-videos/train\Ghar\Dataset02 (1)_rotate.mp4,Ghar
+split-videos/train\Sungur\20241003_121315_noise.mp4,Sungur
+split-videos/train\Kharayo\20241002_121814_slow_down.mp4,Kharayo
+split-videos/train\Jestha\Dataset02 (5)_color_jitter.mp4,Jestha
+split-videos/train\Nariwal\20241002_121506_rotate.mp4,Nariwal
+split-videos/train\Shau\Dataset02 (11)_rotate.mp4,Shau
+split-videos/train\Naang\20241002_121652_noise.mp4,Naang
+split-videos/train\Jestha\Dataset01 (18)_speed_up.mp4,Jestha
+split-videos/train\Khairo\20241008_093956_rotate.mp4,Khairo
+split-videos/train\Nariwal\20241006_090828_flip.mp4,Nariwal
+split-videos/train\Baisakh\20241014_092505_flip.mp4,Baisakh
+split-videos/train\Hariyo\20241003_114416_speed_up.mp4,Hariyo
+split-videos/train\Sungur\20241002_121752_speed_up.mp4,Sungur
+split-videos/train\Kharayo\20241002_121814_brightness.mp4,Kharayo
+split-videos/train\Hathi\20241001_152926_flip.mp4,Hathi
+split-videos/train\Khairo\Dataset02 (12)_brightness.mp4,Khairo
+split-videos/train\Shau\20241003_121017_flip.mp4,Shau
+split-videos/train\Hathi\20241002_104939_flip.mp4,Hathi
+split-videos/train\Amilo\20241006_094559_speed_up.mp4,Amilo
+split-videos/train\Guy\20241008_091843_brightness.mp4,Guy
+split-videos/train\Baisakh\20241003_085517_speed_up.mp4,Baisakh
+split-videos/train\Falful\20241003_091334_color_jitter.mp4,Falful
+split-videos/train\Kera\20241014_093929_brightness.mp4,Kera
+split-videos/train\Shau\20241002_121343_brightness.mp4,Shau
+split-videos/train\Amilo\Dataset02 (6)_noise.mp4,Amilo
+split-videos/train\Naang\20241003_085957_flip.mp4,Naang
+split-videos/train\Naang\20241014_093043_color_jitter.mp4,Naang
+split-videos/train\Nariwal\20241014_092910_brightness.mp4,Nariwal
+split-videos/train\Baisakh\20241006_090453_color_jitter.mp4,Baisakh
+split-videos/train\Naadi\20241003_114728_color_jitter.mp4,Naadi
+split-videos/train\Kharayo\Dataset02 (10)_speed_up.mp4,Kharayo
+split-videos/train\Poush\20241003_115333_color_jitter.mp4,Poush
+split-videos/train\Saag\20241014_093956_rotate.mp4,Saag
+split-videos/train\Hathi\Dataset02 (2)_speed_up.mp4,Hathi
+split-videos/train\Mahina\Dataset02 (18)_color_jitter.mp4,Mahina
+split-videos/train\Kharayo\Dataset01 (3)_noise.mp4,Kharayo
+split-videos/train\Falful\dataset 03 (8)_flip.mp4,Falful
+split-videos/train\Ghar\20241006_083407_brightness.mp4,Ghar
+split-videos/train\Guy\Dataset01 (11)_rotate.mp4,Guy
+split-videos/train\Shau\20241014_092738_slow_down.mp4,Shau
+split-videos/train\Ghar\20241008_094242_flip.mp4,Ghar
+split-videos/train\Ghar\20241003_091420_noise.mp4,Ghar
+split-videos/train\Hariyo\20241014_093802_rotate.mp4,Hariyo
+split-videos/train\Shau\20241002_111824_speed_up.mp4,Shau
+split-videos/train\Shau\20241008_100913_flip.mp4,Shau
+split-videos/train\Kharayo\20241006_094343_color_jitter.mp4,Kharayo
+split-videos/train\Ghar\20241006_094147_speed_up.mp4,Ghar
+split-videos/train\Baisakh\Dataset01 (8)_brightness.mp4,Baisakh
+split-videos/train\Amilo\Dataset02 (6)_speed_up.mp4,Amilo
+split-videos/train\Hathi\20241003_090016_rotate.mp4,Hathi
+split-videos/train\Naadi\Dataset02 (20)_color_jitter.mp4,Naadi
+split-videos/train\Mahina\20241001_153334_noise.mp4,Mahina
+split-videos/train\Naadi\20241001_152909_color_jitter.mp4,Naadi
+split-videos/train\Gundruk\20241008_094608_brightness.mp4,Gundruk
+split-videos/train\Ghar\20241008_094242_slow_down.mp4,Ghar
+split-videos/train\Hathi\20241002_104939_color_jitter.mp4,Hathi
+split-videos/train\Shau\20241003_114452_color_jitter.mp4,Shau
+split-videos/train\Shau\20241003_114452_noise.mp4,Shau
+split-videos/train\Baisakh\20241003_091207_speed_up.mp4,Baisakh
+split-videos/train\Jestha\20241003_114257_rotate.mp4,Jestha
+split-videos/train\Poush\20241001_152413_color_jitter.mp4,Poush
+split-videos/train\Shau\Dataset01 (16)_brightness.mp4,Shau
+split-videos/train\Mahina\20241002_121057_color_jitter.mp4,Mahina
+split-videos/train\Baisakh\20241014_093646_flip.mp4,Baisakh
+split-videos/train\Nariwal\20241003_115701_rotate.mp4,Nariwal
+split-videos/train\Hathi\20241014_093111_noise.mp4,Hathi
+split-videos/train\Kharayo\20241006_094343_flip.mp4,Kharayo
+split-videos/train\Ghar\20241003_091420_slow_down.mp4,Ghar
+split-videos/train\Mahina\20241006_090436_flip.mp4,Mahina
+split-videos/train\Gundruk\20241014_094010_color_jitter.mp4,Gundruk
+split-videos/train\Naadi\20241002_105324_speed_up.mp4,Naadi
+split-videos/train\Falful\20241002_111951_brightness.mp4,Falful
+split-videos/train\Khairo\20241002_111802_flip.mp4,Khairo
+split-videos/train\Jestha\20241006_090517_brightness.mp4,Jestha
+split-videos/train\Naang\20241008_101128_color_jitter.mp4,Naang
+split-videos/train\Baisakh\20241002_121133_brightness.mp4,Baisakh
+split-videos/train\Shau\20241006_093952_slow_down.mp4,Shau
+split-videos/train\Kera\20241003_115639_speed_up.mp4,Kera
+split-videos/train\Naadi\dataset 03 (12)_color_jitter.mp4,Naadi
+split-videos/train\Kera\Dataset01 (20)_rotate.mp4,Kera
+split-videos/train\Hathi\20241006_083647_brightness.mp4,Hathi
+split-videos/train\Ghar\dataset 03 (11)_slow_down.mp4,Ghar
+split-videos/train\Amilo\Dataset01 (1)_slow_down.mp4,Amilo
+split-videos/train\Sungur\20241014_094128_brightness.mp4,Sungur
+split-videos/train\Guy\20241003_114813_rotate.mp4,Guy
+split-videos/train\Baisakh\20241003_085517_color_jitter.mp4,Baisakh
+split-videos/train\Naang\20241006_083630_flip.mp4,Naang
+split-videos/train\Khairo\20241003_085715_brightness.mp4,Khairo
+split-videos/train\Mahina\Dataset02 (18)_flip.mp4,Mahina
+split-videos/train\Hathi\20241006_094238_brightness.mp4,Hathi
+split-videos/train\Nariwal\20241003_121122_flip.mp4,Nariwal
+split-videos/train\Gundruk\20241008_094608_color_jitter.mp4,Gundruk
+split-videos/train\Poush\20241006_093822_noise.mp4,Poush
+split-videos/train\Kera\20241001_152736_brightness.mp4,Kera
+split-videos/train\Guy\20241006_094307_brightness.mp4,Guy
+split-videos/train\Hariyo\20241014_093802_slow_down.mp4,Hariyo
+split-videos/train\Baisakh\20241003_115256_speed_up.mp4,Baisakh
+split-videos/train\Shau\20241003_115529_rotate.mp4,Shau
+split-videos/train\Ghar\20241003_115801_brightness.mp4,Ghar
+split-videos/train\Guy\20241003_121306_speed_up.mp4,Guy
+split-videos/train\Khairo\20241002_104443_speed_up.mp4,Khairo
+split-videos/train\Sungur\20241006_083721_noise.mp4,Sungur
+split-videos/train\Sungur\20241003_115932_slow_down.mp4,Sungur
+split-videos/train\Baisakh\20241003_114239_brightness.mp4,Baisakh
+split-videos/train\Kera\20241008_094124_slow_down.mp4,Kera
+split-videos/train\Kharayo\20241008_094417_slow_down.mp4,Kharayo
+split-videos/train\Jestha\20241014_092519_noise.mp4,Jestha
+split-videos/train\Saag\20241001_152823_color_jitter.mp4,Saag
+split-videos/train\Kharayo\20241001_153014_slow_down.mp4,Kharayo
+split-videos/train\Khairo\20241006_093930_flip.mp4,Khairo
+split-videos/train\Shau\20241008_091616_brightness.mp4,Shau
+split-videos/train\Baisakh\20241014_093646_noise.mp4,Baisakh
+split-videos/train\Guy\20241008_101153_brightness.mp4,Guy
+split-videos/train\Falful\20241008_091634_slow_down.mp4,Falful
+split-videos/train\Gundruk\20241006_090905_rotate.mp4,Gundruk
+split-videos/train\Amilo\20241002_104402_rotate.mp4,Amilo
+split-videos/train\Kharayo\20241003_114839_slow_down.mp4,Kharayo
+split-videos/train\Nariwal\20241014_093944_flip.mp4,Nariwal
+split-videos/train\Gundruk\20241006_083351_flip.mp4,Gundruk
+split-videos/train\Nariwal\20241006_083243_noise.mp4,Nariwal
+split-videos/train\Saag\20241001_152823_noise.mp4,Saag
+split-videos/train\Ghar\20241001_152853_rotate.mp4,Ghar
+split-videos/train\Kera\20241001_152736_speed_up.mp4,Kera
+split-videos/train\Hathi\Dataset02 (2)_rotate.mp4,Hathi
+split-videos/train\Saag\20241003_114639_slow_down.mp4,Saag
+split-videos/train\Falful\20241003_085753_slow_down.mp4,Falful
+split-videos/train\Kera\20241006_083147_rotate.mp4,Kera
+split-videos/train\Baisakh\20241001_152325_rotate.mp4,Baisakh
+split-videos/train\Guy\dataset 03 (1)_slow_down.mp4,Guy
+split-videos/train\Kera\20241003_121106_rotate.mp4,Kera
+split-videos/train\Amilo\20241002_121249_brightness.mp4,Amilo
+split-videos/train\Sungur\20241008_091857_rotate.mp4,Sungur
+split-videos/train\Nariwal\20241003_121122_color_jitter.mp4,Nariwal
+split-videos/train\Guy\Dataset01 (11)_slow_down.mp4,Guy
+split-videos/train\Kera\20241003_115639_color_jitter.mp4,Kera
+split-videos/train\Gundruk\20241003_115746_slow_down.mp4,Gundruk
+split-videos/train\Nariwal\Dataset01 (2)_brightness.mp4,Nariwal
+split-videos/train\Nariwal\Dataset01 (2)_slow_down.mp4,Nariwal
+split-videos/train\Baisakh\20241008_091447_noise.mp4,Baisakh
+split-videos/train\Naadi\20241003_085941_flip.mp4,Naadi
+split-videos/train\Guy\20241002_121733_speed_up.mp4,Guy
+split-videos/train\Poush\20241006_093822_speed_up.mp4,Poush
+split-videos/train\Kharayo\dataset 03 (17)_noise.mp4,Kharayo
+split-videos/train\Falful\20241006_083109_flip.mp4,Falful
+split-videos/train\Jestha\20241014_092519_color_jitter.mp4,Jestha
+split-videos/train\Baisakh\20241002_111535_color_jitter.mp4,Baisakh
+split-videos/train\Saag\20241002_104755_speed_up.mp4,Saag
+split-videos/train\Jestha\20241003_115320_speed_up.mp4,Jestha
+split-videos/train\Sungur\20241008_094405_slow_down.mp4,Sungur
+split-videos/train\Shau\20241014_092738_rotate.mp4,Shau
+split-videos/train\Saag\Dataset02 (17)_slow_down.mp4,Saag
+split-videos/train\Hathi\20241006_083647_speed_up.mp4,Hathi
+split-videos/train\Kharayo\20241006_091107_speed_up.mp4,Kharayo
+split-videos/train\Saag\20241001_152823_slow_down.mp4,Saag
+split-videos/train\Saag\dataset 03 (5)_slow_down.mp4,Saag
+split-videos/train\Kharayo\20241003_114839_rotate.mp4,Kharayo
+split-videos/train\Khairo\20241006_084850_speed_up.mp4,Khairo
+split-videos/train\Ghar\20241002_112236_slow_down.mp4,Ghar
+split-videos/train\Nariwal\20241003_115701_noise.mp4,Nariwal
+split-videos/train\Ghar\20241008_101056_rotate.mp4,Ghar
+split-videos/train\Kera\20241003_091342_speed_up.mp4,Kera
+split-videos/train\Naang\20241008_101128_flip.mp4,Naang
+split-videos/train\Shau\20241003_085731_noise.mp4,Shau
+split-videos/train\Gundruk\20241006_094118_noise.mp4,Gundruk
+split-videos/train\Baisakh\20241008_091447_color_jitter.mp4,Baisakh
+split-videos/train\Amilo\dataset 03 (2)_flip.mp4,Amilo
+split-videos/train\Hariyo\20241002_104419_rotate.mp4,Hariyo
+split-videos/train\Shau\20241014_093851_rotate.mp4,Shau
+split-videos/train\Falful\20241003_114523_brightness.mp4,Falful
+split-videos/train\Hathi\Dataset02 (2)_slow_down.mp4,Hathi
+split-videos/train\Saag\20241008_091724_color_jitter.mp4,Saag
+split-videos/train\Saag\20241002_104755_slow_down.mp4,Saag
+split-videos/train\Amilo\dataset 03 (2)_color_jitter.mp4,Amilo
+split-videos/train\Naadi\dataset 03 (12)_brightness.mp4,Naadi
+split-videos/train\Baisakh\20241003_120831_speed_up.mp4,Baisakh
+split-videos/train\Naang\20241008_094311_brightness.mp4,Naang
+split-videos/train\Naang\20241002_112327_speed_up.mp4,Naang
+split-videos/train\Jestha\20241008_093854_color_jitter.mp4,Jestha
+split-videos/train\Khairo\20241008_093956_slow_down.mp4,Khairo
+split-videos/train\Gundruk\20241002_112212_speed_up.mp4,Gundruk
+split-videos/train\Hariyo\20241008_093942_noise.mp4,Hariyo
+split-videos/train\Jestha\20241003_085542_flip.mp4,Jestha
+split-videos/train\Nariwal\Dataset02 (14)_slow_down.mp4,Nariwal
+split-videos/train\Ghar\20241014_094026_flip.mp4,Ghar
+split-videos/train\Gundruk\20241003_115746_flip.mp4,Gundruk
+split-videos/train\Falful\dataset 03 (8)_speed_up.mp4,Falful
+split-videos/train\Mahina\20241003_085500_noise.mp4,Mahina
+split-videos/train\Ghar\20241002_112236_noise.mp4,Ghar
+split-videos/train\Hariyo\20241003_115417_rotate.mp4,Hariyo
+split-videos/train\Poush\20241002_121218_brightness.mp4,Poush
+split-videos/train\Amilo\20241001_152509_brightness.mp4,Amilo
+split-videos/train\Naadi\20241002_112309_flip.mp4,Naadi
+split-videos/train\Hariyo\20241002_111737_color_jitter.mp4,Hariyo
+split-videos/train\Poush\20241006_090532_color_jitter.mp4,Poush
+split-videos/train\Mahina\20241002_111452_color_jitter.mp4,Mahina
+split-videos/train\Mahina\20241006_093732_flip.mp4,Mahina
+split-videos/train\Gundruk\20241006_090905_noise.mp4,Gundruk
+split-videos/train\Baisakh\20241008_093838_brightness.mp4,Baisakh
+split-videos/train\Mahina\20241002_111452_noise.mp4,Mahina
+split-videos/train\Jestha\Dataset02 (5)_flip.mp4,Jestha
+split-videos/train\Kharayo\Dataset01 (3)_brightness.mp4,Kharayo
+split-videos/train\Shau\20241003_115529_slow_down.mp4,Shau
+split-videos/train\Naadi\20241008_091800_slow_down.mp4,Naadi
+split-videos/train\Sungur\20241006_083721_color_jitter.mp4,Sungur
+split-videos/train\Hariyo\20241001_152548_color_jitter.mp4,Hariyo
+split-videos/train\Sungur\20241008_101208_noise.mp4,Sungur
+split-videos/train\Mahina\20241003_120819_slow_down.mp4,Mahina
+split-videos/train\Poush\20241014_093733_flip.mp4,Poush
+split-videos/train\Hariyo\20241003_114416_flip.mp4,Hariyo
+split-videos/train\Falful\20241003_085753_brightness.mp4,Falful
+split-videos/train\Kharayo\20241014_094141_rotate.mp4,Kharayo
+split-videos/train\Naadi\20241008_094258_noise.mp4,Naadi
+split-videos/train\Guy\20241003_090032_brightness.mp4,Guy
+split-videos/train\Falful\20241003_115610_color_jitter.mp4,Falful
+split-videos/train\Poush\20241002_121218_speed_up.mp4,Poush
+split-videos/train\Gundruk\20241003_115746_speed_up.mp4,Gundruk
+split-videos/train\Naang\20241003_085957_noise.mp4,Naang
+split-videos/train\Guy\20241003_091501_noise.mp4,Guy
+split-videos/train\Mahina\20241003_115230_slow_down.mp4,Mahina
+split-videos/train\Hariyo\20241014_092643_speed_up.mp4,Hariyo
+split-videos/train\Gundruk\20241001_152838_color_jitter.mp4,Gundruk
+split-videos/train\Falful\20241006_094017_flip.mp4,Falful
+split-videos/train\Hathi\20241014_093111_flip.mp4,Hathi
+split-videos/train\Shau\20241003_115529_noise.mp4,Shau
+split-videos/train\Guy\20241002_104953_noise.mp4,Guy
+split-videos/train\Nariwal\20241002_104734_flip.mp4,Nariwal
+split-videos/train\Naang\20241002_104920_noise.mp4,Naang
+split-videos/train\Baisakh\20241003_115256_flip.mp4,Baisakh
+split-videos/train\Poush\20241003_091227_noise.mp4,Poush
+split-videos/train\Naang\20241014_093043_rotate.mp4,Naang
+split-videos/train\Shau\20241003_091326_flip.mp4,Shau
+split-videos/train\Guy\20241006_083706_flip.mp4,Guy
+split-videos/train\Gundruk\20241008_101041_flip.mp4,Gundruk
+split-videos/train\Baisakh\20241002_121133_speed_up.mp4,Baisakh
+split-videos/train\Saag\20241003_114639_noise.mp4,Saag
+split-videos/train\Ghar\20241014_093008_brightness.mp4,Ghar
+split-videos/train\Shau\dataset 03 (3)_brightness.mp4,Shau
+split-videos/train\Baisakh\20241003_091207_brightness.mp4,Baisakh
+split-videos/train\Baisakh\20241008_091447_brightness.mp4,Baisakh
+split-videos/train\Guy\20241008_101153_speed_up.mp4,Guy
+split-videos/train\Saag\20241002_112152_flip.mp4,Saag
+split-videos/train\Hariyo\dataset 03 (16)_brightness.mp4,Hariyo
+split-videos/train\Kera\20241008_091655_color_jitter.mp4,Kera
+split-videos/train\Khairo\20241001_152614_noise.mp4,Khairo
+split-videos/train\Baisakh\20241003_114239_color_jitter.mp4,Baisakh
+split-videos/train\Khairo\20241014_093822_rotate.mp4,Khairo
+split-videos/train\Khairo\20241006_090654_rotate.mp4,Khairo
+split-videos/train\Mahina\20241014_093632_color_jitter.mp4,Mahina
+split-videos/train\Gundruk\20241014_094010_flip.mp4,Gundruk
+split-videos/train\Ghar\20241008_101056_color_jitter.mp4,Ghar
+split-videos/train\Falful\20241014_093907_rotate.mp4,Falful
+split-videos/train\Falful\20241003_114523_speed_up.mp4,Falful
+split-videos/train\Kera\20241002_104645_rotate.mp4,Kera
+split-videos/train\Hathi\20241008_094339_noise.mp4,Hathi
+split-videos/train\Hathi\20241003_090016_color_jitter.mp4,Hathi
+split-videos/train\Saag\dataset 03 (5)_flip.mp4,Saag
+split-videos/train\Nariwal\20241008_091712_color_jitter.mp4,Nariwal
+split-videos/train\Kera\20241002_121447_rotate.mp4,Kera
+split-videos/train\Naadi\20241006_090931_color_jitter.mp4,Naadi
+split-videos/train\Kera\20241014_093929_noise.mp4,Kera
+split-videos/train\Kharayo\20241006_083737_rotate.mp4,Kharayo
+split-videos/train\Kharayo\20241002_105042_noise.mp4,Kharayo
+split-videos/train\Gundruk\20241002_112212_brightness.mp4,Gundruk
+split-videos/train\Ghar\20241002_121601_noise.mp4,Ghar
+split-videos/train\Mahina\20241002_121057_noise.mp4,Mahina
+split-videos/train\Shau\20241006_084540_flip.mp4,Shau
+split-videos/train\Nariwal\20241003_115701_color_jitter.mp4,Nariwal
+split-videos/train\Saag\20241014_092939_color_jitter.mp4,Saag
+split-videos/train\Kharayo\20241003_090115_rotate.mp4,Kharayo
+split-videos/train\Poush\Dataset02 (19)_color_jitter.mp4,Poush
+split-videos/train\Sungur\20241002_105015_rotate.mp4,Sungur
+split-videos/train\Hariyo\20241001_152548_brightness.mp4,Hariyo
+split-videos/train\Sungur\Dataset02 (9)_flip.mp4,Sungur
+split-videos/train\Mahina\20241014_092443_color_jitter.mp4,Mahina
+split-videos/train\Kharayo\20241014_094141_noise.mp4,Kharayo
+split-videos/train\Mahina\20241003_091140_flip.mp4,Mahina
+split-videos/train\Shau\dataset 03 (3)_slow_down.mp4,Shau
+split-videos/train\Sungur\20241001_152959_speed_up.mp4,Sungur
+split-videos/train\Kharayo\20241008_101220_rotate.mp4,Kharayo
+split-videos/train\Hariyo\20241006_082918_flip.mp4,Hariyo
+split-videos/train\Khairo\20241003_091255_slow_down.mp4,Khairo
+split-videos/train\Ghar\20241003_121202_rotate.mp4,Ghar
+split-videos/train\Gundruk\20241008_091738_brightness.mp4,Gundruk
+split-videos/train\Nariwal\20241002_104734_color_jitter.mp4,Nariwal
+split-videos/train\Saag\20241002_112152_rotate.mp4,Saag
+split-videos/train\Mahina\20241014_092443_rotate.mp4,Mahina
+split-videos/train\Khairo\20241001_152614_flip.mp4,Khairo
+split-videos/train\Falful\20241003_085753_speed_up.mp4,Falful
+split-videos/train\Saag\20241006_083308_speed_up.mp4,Saag
+split-videos/train\Shau\20241003_085731_rotate.mp4,Shau
+split-videos/train\Guy\20241008_101153_slow_down.mp4,Guy
+split-videos/train\Naadi\20241008_094258_color_jitter.mp4,Naadi
+split-videos/train\Nariwal\20241003_091352_color_jitter.mp4,Nariwal
+split-videos/train\Jestha\20241006_082542_speed_up.mp4,Jestha
+split-videos/train\Gundruk\20241006_083351_noise.mp4,Gundruk
+split-videos/train\Hathi\Dataset01 (10)_speed_up.mp4,Hathi
+split-videos/train\Nariwal\20241003_114603_flip.mp4,Nariwal
+split-videos/train\Nariwal\20241008_101009_flip.mp4,Nariwal
+split-videos/train\Guy\20241006_091028_slow_down.mp4,Guy
+split-videos/train\Hathi\20241006_083647_slow_down.mp4,Hathi
+split-videos/train\Poush\20241003_114317_brightness.mp4,Poush
+split-videos/train\Kera\Dataset02 (4)_flip.mp4,Kera
+split-videos/train\Amilo\20241003_114358_brightness.mp4,Amilo
+split-videos/train\Hariyo\20241008_093942_brightness.mp4,Hariyo
+split-videos/train\Poush\20241003_115333_rotate.mp4,Poush
+split-videos/train\Naadi\20241003_091428_slow_down.mp4,Naadi
+split-videos/train\Guy\Dataset01 (11)_noise.mp4,Guy
+split-videos/train\Naang\20241008_091819_color_jitter.mp4,Naang
+split-videos/train\Baisakh\20241006_082424_slow_down.mp4,Baisakh
+split-videos/train\Sungur\20241002_121752_noise.mp4,Sungur
+split-videos/train\Shau\Dataset02 (11)_brightness.mp4,Shau
+split-videos/train\Mahina\20241003_115230_brightness.mp4,Mahina
+split-videos/train\Guy\Dataset02 (13)_brightness.mp4,Guy
+split-videos/train\Mahina\20241002_121057_slow_down.mp4,Mahina
+split-videos/train\Sungur\20241002_121752_color_jitter.mp4,Sungur
+split-videos/train\Guy\20241008_101153_flip.mp4,Guy
+split-videos/train\Mahina\20241002_121057_rotate.mp4,Mahina
+split-videos/train\Kharayo\20241001_153014_noise.mp4,Kharayo
+split-videos/train\Kharayo\20241003_121326_color_jitter.mp4,Kharayo
+split-videos/train\Khairo\20241003_085715_speed_up.mp4,Khairo
+split-videos/train\Poush\20241003_120902_noise.mp4,Poush
+split-videos/train\Poush\20241014_093733_noise.mp4,Poush
+split-videos/train\Poush\20241002_111555_color_jitter.mp4,Poush
+split-videos/train\Kera\20241001_152736_color_jitter.mp4,Kera
+split-videos/train\Amilo\20241002_121249_rotate.mp4,Amilo
+split-videos/train\Kharayo\20241003_114839_brightness.mp4,Kharayo
+split-videos/train\Amilo\20241008_100833_rotate.mp4,Amilo
+split-videos/train\Mahina\Dataset02 (18)_brightness.mp4,Mahina
+split-videos/train\Amilo\20241002_104402_slow_down.mp4,Amilo
+split-videos/train\Baisakh\20241003_085517_rotate.mp4,Baisakh
+split-videos/train\Nariwal\Dataset02 (14)_rotate.mp4,Nariwal
+split-videos/train\Poush\20241008_091520_rotate.mp4,Poush
+split-videos/train\Amilo\20241006_084654_speed_up.mp4,Amilo
+split-videos/train\Jestha\20241002_121200_noise.mp4,Jestha
+split-videos/train\Shau\20241008_094017_slow_down.mp4,Shau
+split-videos/train\Gundruk\20241003_121150_rotate.mp4,Gundruk
+split-videos/train\Sungur\20241001_152959_rotate.mp4,Sungur
+split-videos/train\Saag\20241003_121137_color_jitter.mp4,Saag
+split-videos/train\Amilo\20241003_114358_color_jitter.mp4,Amilo
+split-videos/train\Baisakh\20241002_121133_noise.mp4,Baisakh
+split-videos/train\Amilo\20241002_112728_color_jitter.mp4,Amilo
+split-videos/train\Mahina\20241003_114215_flip.mp4,Mahina
+split-videos/train\Guy\20241002_121733_rotate.mp4,Guy
+split-videos/train\Mahina\20241001_153334_flip.mp4,Mahina
+split-videos/train\Mahina\20241008_093817_slow_down.mp4,Mahina
+split-videos/train\Kharayo\Dataset02 (10)_rotate.mp4,Kharayo
+split-videos/train\Poush\dataset 03 (13)_speed_up.mp4,Poush
+split-videos/train\Falful\Dataset02 (7)_flip.mp4,Falful
+split-videos/train\Naadi\20241014_093021_rotate.mp4,Naadi
+split-videos/train\Poush\20241002_111555_rotate.mp4,Poush
+split-videos/train\Guy\20241003_090032_rotate.mp4,Guy
+split-videos/train\Naang\20241014_093043_brightness.mp4,Naang
+split-videos/train\Jestha\dataset 03 (20)_brightness.mp4,Jestha
+split-videos/train\Hathi\20241003_090016_slow_down.mp4,Hathi
+split-videos/train\Gundruk\20241003_115746_rotate.mp4,Gundruk
+split-videos/train\Guy\20241008_091843_speed_up.mp4,Guy
+split-videos/train\Khairo\20241008_093956_speed_up.mp4,Khairo
+split-videos/train\Jestha\20241001_152352_color_jitter.mp4,Jestha
+split-videos/train\Poush\20241006_090532_rotate.mp4,Poush
+split-videos/train\Khairo\20241008_093956_brightness.mp4,Khairo
+split-videos/train\Naadi\20241008_091800_flip.mp4,Naadi
+split-videos/train\Gundruk\20241003_121150_noise.mp4,Gundruk
+split-videos/train\Mahina\Dataset02 (18)_slow_down.mp4,Mahina
+split-videos/train\Guy\20241014_094118_speed_up.mp4,Guy
+split-videos/train\Ghar\20241001_152853_slow_down.mp4,Ghar
+split-videos/train\Khairo\20241006_084850_flip.mp4,Khairo
+split-videos/train\Poush\20241003_085559_brightness.mp4,Poush
+split-videos/train\Saag\20241014_092939_flip.mp4,Saag
+split-videos/train\Nariwal\20241001_152800_slow_down.mp4,Nariwal
+split-videos/train\Saag\20241003_085844_brightness.mp4,Saag
+split-videos/train\Baisakh\Dataset01 (8)_slow_down.mp4,Baisakh
+split-videos/train\Khairo\20241003_091255_rotate.mp4,Khairo
+split-videos/train\Amilo\20241002_104402_color_jitter.mp4,Amilo
+split-videos/train\Ghar\20241002_121601_rotate.mp4,Ghar
+split-videos/train\Kharayo\20241003_121326_brightness.mp4,Kharayo
+split-videos/train\Nariwal\20241002_112125_slow_down.mp4,Nariwal
+split-videos/train\Guy\20241006_083706_noise.mp4,Guy
+split-videos/train\Ghar\20241014_093008_slow_down.mp4,Ghar
+split-videos/train\Naang\Dataset02 (3)_speed_up.mp4,Naang
+split-videos/train\Poush\20241003_115333_slow_down.mp4,Poush
+split-videos/train\Mahina\20241002_111452_brightness.mp4,Mahina
+split-videos/train\Jestha\dataset 03 (20)_speed_up.mp4,Jestha
+split-videos/train\Kera\20241002_112105_speed_up.mp4,Kera
+split-videos/train\Guy\20241003_090032_color_jitter.mp4,Guy
+split-videos/train\Saag\20241003_085844_flip.mp4,Saag
+split-videos/train\Gundruk\20241003_085859_speed_up.mp4,Gundruk
+split-videos/train\Nariwal\20241003_091352_rotate.mp4,Nariwal
+split-videos/train\Sungur\20241008_091857_flip.mp4,Sungur
+split-videos/train\Saag\20241008_094215_slow_down.mp4,Saag
+split-videos/train\Sungur\20241006_091040_slow_down.mp4,Sungur
+split-videos/train\Sungur\20241008_094405_noise.mp4,Sungur
+split-videos/train\Shau\20241003_091326_speed_up.mp4,Shau
+split-videos/train\Nariwal\20241014_092910_slow_down.mp4,Nariwal
+split-videos/train\Mahina\20241002_121057_flip.mp4,Mahina
+split-videos/train\Naang\Dataset01 (6)_slow_down.mp4,Naang
+split-videos/train\Naang\Dataset02 (3)_flip.mp4,Naang
+split-videos/train\Baisakh\20241002_111535_flip.mp4,Baisakh
+split-videos/train\Jestha\20241003_085542_brightness.mp4,Jestha
+split-videos/train\Gundruk\20241003_121150_brightness.mp4,Gundruk
+split-videos/train\Falful\20241008_091634_brightness.mp4,Falful
+split-videos/train\Naadi\20241003_085941_brightness.mp4,Naadi
+split-videos/train\Guy\20241014_093129_brightness.mp4,Guy
+split-videos/train\Mahina\20241008_093817_brightness.mp4,Mahina
+split-videos/train\Amilo\20241003_120921_noise.mp4,Amilo
+split-videos/train\Gundruk\20241003_121150_color_jitter.mp4,Gundruk
+split-videos/train\Kera\20241006_090812_brightness.mp4,Kera
+split-videos/train\Poush\20241006_093822_color_jitter.mp4,Poush
+split-videos/train\Sungur\20241006_083721_flip.mp4,Sungur
+split-videos/train\Guy\20241008_094352_color_jitter.mp4,Guy
+split-videos/train\Poush\20241008_091520_color_jitter.mp4,Poush
+split-videos/train\Gundruk\Dataset02 (15)_noise.mp4,Gundruk
+split-videos/train\Guy\20241003_121306_flip.mp4,Guy
+split-videos/train\Gundruk\20241008_101041_speed_up.mp4,Gundruk
+split-videos/train\Saag\20241003_114639_color_jitter.mp4,Saag
+split-videos/train\Saag\20241003_085844_color_jitter.mp4,Saag
+split-videos/train\Kera\Dataset01 (20)_brightness.mp4,Kera
+split-videos/train\Hathi\20241003_091446_rotate.mp4,Hathi
+split-videos/train\Falful\20241006_094017_slow_down.mp4,Falful
+split-videos/train\Guy\20241003_091501_speed_up.mp4,Guy
+split-videos/train\Sungur\Dataset02 (9)_rotate.mp4,Sungur
+split-videos/train\Shau\20241006_093952_speed_up.mp4,Shau
+split-videos/train\Shau\20241003_091326_rotate.mp4,Shau
+split-videos/train\Kera\20241002_112105_slow_down.mp4,Kera
+split-videos/train\Ghar\20241001_152853_noise.mp4,Ghar
+split-videos/train\Nariwal\20241001_152800_color_jitter.mp4,Nariwal
+split-videos/train\Amilo\20241006_090618_speed_up.mp4,Amilo
+split-videos/train\Kharayo\20241014_093156_rotate.mp4,Kharayo
+split-videos/train\Khairo\20241003_085715_color_jitter.mp4,Khairo
+split-videos/train\Naadi\Dataset01 (14)_color_jitter.mp4,Naadi
+split-videos/train\Saag\20241002_112152_speed_up.mp4,Saag
+split-videos/train\Naadi\20241001_152909_rotate.mp4,Naadi
+split-videos/train\Naadi\20241003_114728_slow_down.mp4,Naadi
+split-videos/train\Amilo\20241003_085616_color_jitter.mp4,Amilo
+split-videos/train\Amilo\20241003_085616_slow_down.mp4,Amilo
+split-videos/train\Saag\20241002_121527_brightness.mp4,Saag
+split-videos/train\Kharayo\20241001_153014_speed_up.mp4,Kharayo
+split-videos/train\Mahina\20241003_114215_slow_down.mp4,Mahina
+split-videos/train\Naang\20241008_091819_flip.mp4,Naang
+split-videos/train\Poush\20241014_093156_flip.mp4,Poush
+split-videos/train\Nariwal\20241008_101009_rotate.mp4,Nariwal
+split-videos/train\Guy\20241014_093129_speed_up.mp4,Guy
+split-videos/train\Ghar\20241002_104835_speed_up.mp4,Ghar
+split-videos/train\Amilo\20241003_114358_rotate.mp4,Amilo
+split-videos/train\Baisakh\Dataset02 (8)_rotate.mp4,Baisakh
+split-videos/train\Nariwal\20241014_093944_rotate.mp4,Nariwal
+split-videos/train\Khairo\20241003_115444_rotate.mp4,Khairo
+split-videos/train\Poush\20241003_091227_speed_up.mp4,Poush
+split-videos/train\Shau\20241002_111824_color_jitter.mp4,Shau
+split-videos/train\Naang\Dataset02 (3)_brightness.mp4,Naang
+split-videos/train\Baisakh\20241003_120831_color_jitter.mp4,Baisakh
+split-videos/train\Saag\Dataset02 (17)_color_jitter.mp4,Saag
+split-videos/train\Kharayo\20241002_105042_slow_down.mp4,Kharayo
+split-videos/train\Baisakh\Dataset01 (8)_noise.mp4,Baisakh
+split-videos/train\Hathi\20241003_090016_brightness.mp4,Hathi
+split-videos/train\Hathi\20241006_091015_slow_down.mp4,Hathi
+split-videos/train\Jestha\20241001_152352_slow_down.mp4,Jestha
+split-videos/train\Kera\20241014_092838_slow_down.mp4,Kera
+split-videos/train\Amilo\20241002_121249_speed_up.mp4,Amilo
+split-videos/train\Falful\20241003_115610_flip.mp4,Falful
+split-videos/train\Poush\20241006_082626_slow_down.mp4,Poush
+split-videos/train\Naang\20241003_121235_speed_up.mp4,Naang
+split-videos/train\Jestha\Dataset01 (18)_noise.mp4,Jestha
+split-videos/train\Baisakh\20241008_100746_rotate.mp4,Baisakh
+split-videos/train\Poush\20241003_114317_color_jitter.mp4,Poush
+split-videos/train\Gundruk\20241006_083351_slow_down.mp4,Gundruk
+split-videos/train\Naadi\20241003_121221_noise.mp4,Naadi
+split-videos/train\Sungur\20241003_091511_rotate.mp4,Sungur
+split-videos/train\Naang\20241006_094223_color_jitter.mp4,Naang
+split-videos/train\Kera\20241003_085814_slow_down.mp4,Kera
+split-videos/train\Falful\20241003_115610_brightness.mp4,Falful
+split-videos/train\Khairo\20241008_100859_flip.mp4,Khairo
+split-videos/train\Amilo\20241003_115353_noise.mp4,Amilo
+split-videos/train\Nariwal\20241001_152800_speed_up.mp4,Nariwal
+split-videos/train\Sungur\20241014_093143_color_jitter.mp4,Sungur
+split-videos/train\Naadi\20241001_152909_speed_up.mp4,Naadi
+split-videos/train\Falful\20241006_090751_speed_up.mp4,Falful
+split-videos/train\Poush\20241002_121218_flip.mp4,Poush
+split-videos/train\Kharayo\20241003_115946_speed_up.mp4,Kharayo
+split-videos/train\Hathi\20241002_104939_noise.mp4,Hathi
+split-videos/train\Kera\20241006_090812_speed_up.mp4,Kera
+split-videos/train\Naadi\20241002_105324_slow_down.mp4,Naadi
+split-videos/train\Nariwal\20241008_101009_slow_down.mp4,Nariwal
+split-videos/train\Nariwal\20241008_101009_noise.mp4,Nariwal
+split-videos/train\Khairo\20241006_084850_brightness.mp4,Khairo
+split-videos/train\Shau\20241002_111824_slow_down.mp4,Shau
+split-videos/train\Amilo\20241003_120921_flip.mp4,Amilo
+split-videos/train\Hariyo\20241003_115417_color_jitter.mp4,Hariyo
+split-videos/train\Ghar\20241006_094147_brightness.mp4,Ghar
+split-videos/train\Jestha\20241014_093706_slow_down.mp4,Jestha
+split-videos/train\Shau\20241003_085731_slow_down.mp4,Shau
+split-videos/train\Guy\20241003_121306_slow_down.mp4,Guy
+split-videos/train\Guy\20241002_112412_speed_up.mp4,Guy
+split-videos/train\Hariyo\20241006_093857_speed_up.mp4,Hariyo
+split-videos/train\Sungur\20241003_114826_rotate.mp4,Sungur
+split-videos/train\Saag\20241003_115728_color_jitter.mp4,Saag
+split-videos/train\Naang\dataset 03 (19)_slow_down.mp4,Naang
+split-videos/train\Amilo\dataset 03 (2)_brightness.mp4,Amilo
+split-videos/train\Hariyo\20241006_090638_brightness.mp4,Hariyo
+split-videos/train\Sungur\20241003_121315_color_jitter.mp4,Sungur
+split-videos/train\Jestha\20241002_121200_speed_up.mp4,Jestha
+split-videos/train\Guy\20241002_104953_brightness.mp4,Guy
+split-videos/train\Ghar\20241003_085912_rotate.mp4,Ghar
+split-videos/train\Jestha\dataset 03 (20)_flip.mp4,Jestha
+split-videos/train\Falful\20241014_092805_rotate.mp4,Falful
+split-videos/train\Hathi\20241006_083647_rotate.mp4,Hathi
+split-videos/train\Nariwal\20241002_112125_speed_up.mp4,Nariwal
+split-videos/train\Khairo\20241008_100859_speed_up.mp4,Khairo
+split-videos/train\Ghar\dataset 03 (11)_noise.mp4,Ghar
+split-videos/train\Ghar\20241003_085912_speed_up.mp4,Ghar
+split-videos/train\Jestha\20241003_114257_color_jitter.mp4,Jestha
+split-videos/train\Kharayo\20241008_101220_slow_down.mp4,Kharayo
+split-videos/train\Amilo\20241001_152509_noise.mp4,Amilo
+split-videos/train\Naang\20241006_090956_brightness.mp4,Naang
+split-videos/train\Amilo\20241003_120921_rotate.mp4,Amilo
+split-videos/train\Mahina\20241008_100734_noise.mp4,Mahina
+split-videos/train\Hariyo\20241001_152548_flip.mp4,Hariyo
+split-videos/train\Kharayo\Dataset01 (3)_color_jitter.mp4,Kharayo
+split-videos/train\Hariyo\20241008_091552_speed_up.mp4,Hariyo
+split-videos/train\Jestha\20241014_092519_slow_down.mp4,Jestha
+split-videos/train\Naadi\20241003_121221_brightness.mp4,Naadi
+split-videos/train\Gundruk\20241003_114656_flip.mp4,Gundruk
+split-videos/train\Kharayo\20241002_121814_rotate.mp4,Kharayo
+split-videos/train\Nariwal\20241002_112125_noise.mp4,Nariwal
+split-videos/train\Ghar\20241003_085912_flip.mp4,Ghar
+split-videos/train\Poush\20241014_093733_rotate.mp4,Poush
+split-videos/train\Mahina\20241003_120819_brightness.mp4,Mahina
+split-videos/train\Jestha\20241014_092519_speed_up.mp4,Jestha
+split-videos/train\Naang\20241008_101128_speed_up.mp4,Naang
+split-videos/train\Gundruk\20241008_094608_speed_up.mp4,Gundruk
+split-videos/train\Kharayo\20241002_112500_brightness.mp4,Kharayo
+split-videos/train\Jestha\20241002_121200_brightness.mp4,Jestha
+split-videos/train\Sungur\20241008_101208_flip.mp4,Sungur
+split-videos/train\Falful\20241006_083109_brightness.mp4,Falful
+split-videos/train\Amilo\20241006_094559_brightness.mp4,Amilo
+split-videos/train\Baisakh\20241002_104210_brightness.mp4,Baisakh
+split-videos/train\Poush\20241003_114317_speed_up.mp4,Poush
+split-videos/train\Kharayo\20241002_112500_noise.mp4,Kharayo
+split-videos/train\Ghar\20241014_094026_brightness.mp4,Ghar
+split-videos/train\Hathi\Dataset02 (2)_noise.mp4,Hathi
+split-videos/train\Guy\20241014_093129_noise.mp4,Guy
+split-videos/train\Jestha\20241014_093706_noise.mp4,Jestha
+split-videos/train\Falful\20241006_090751_color_jitter.mp4,Falful
+split-videos/train\Kharayo\dataset 03 (17)_slow_down.mp4,Kharayo
+split-videos/train\Kharayo\20241002_105042_speed_up.mp4,Kharayo
+split-videos/train\Khairo\Dataset02 (12)_color_jitter.mp4,Khairo
+split-videos/train\Guy\20241003_090032_speed_up.mp4,Guy
+split-videos/train\Saag\20241008_091724_brightness.mp4,Saag
+split-videos/train\Baisakh\Dataset01 (8)_rotate.mp4,Baisakh
+split-videos/train\Poush\20241006_082626_brightness.mp4,Poush
+split-videos/train\Falful\dataset 03 (8)_slow_down.mp4,Falful
+split-videos/train\Ghar\20241014_094026_noise.mp4,Ghar
+split-videos/train\Saag\20241008_101024_slow_down.mp4,Saag
+split-videos/train\Jestha\20241003_114257_brightness.mp4,Jestha
+split-videos/train\Poush\20241002_121218_slow_down.mp4,Poush
+split-videos/train\Nariwal\20241002_104734_rotate.mp4,Nariwal
+split-videos/train\Naang\20241008_091819_slow_down.mp4,Naang
+split-videos/train\Mahina\Dataset01 (13)_speed_up.mp4,Mahina
+split-videos/train\Ghar\20241002_112236_flip.mp4,Ghar
+split-videos/train\Gundruk\20241002_104820_color_jitter.mp4,Gundruk
+split-videos/train\Shau\20241006_093952_flip.mp4,Shau
+split-videos/train\Amilo\Dataset01 (1)_speed_up.mp4,Amilo
+split-videos/train\Saag\20241003_085844_rotate.mp4,Saag
+split-videos/train\Khairo\Dataset01 (9)_slow_down.mp4,Khairo
+split-videos/train\Sungur\20241003_090102_speed_up.mp4,Sungur
+split-videos/train\Jestha\dataset 03 (20)_noise.mp4,Jestha
+split-videos/train\Naang\20241003_085957_rotate.mp4,Naang
+split-videos/train\Naadi\20241003_085941_rotate.mp4,Naadi
+split-videos/train\Gundruk\20241002_112212_slow_down.mp4,Gundruk
+split-videos/train\Sungur\20241002_105015_flip.mp4,Sungur
+split-videos/train\Hathi\20241003_090016_noise.mp4,Hathi
+split-videos/train\Hathi\20241003_121251_flip.mp4,Hathi
+split-videos/train\Amilo\20241008_093927_brightness.mp4,Amilo
+split-videos/train\Guy\Dataset01 (11)_speed_up.mp4,Guy
+split-videos/train\Poush\20241002_111555_brightness.mp4,Poush
+split-videos/train\Hariyo\20241003_091247_color_jitter.mp4,Hariyo
+split-videos/train\Kharayo\20241003_121326_slow_down.mp4,Kharayo
+split-videos/train\Naadi\20241003_115819_speed_up.mp4,Naadi
+split-videos/train\Khairo\20241002_121327_flip.mp4,Khairo
+split-videos/train\Baisakh\20241006_093749_slow_down.mp4,Baisakh
+split-videos/train\Naadi\20241006_083547_color_jitter.mp4,Naadi
+split-videos/train\Khairo\20241002_104443_slow_down.mp4,Khairo
+split-videos/train\Hathi\Dataset01 (10)_flip.mp4,Hathi
+split-videos/train\Saag\20241003_121137_slow_down.mp4,Saag
+split-videos/train\Kera\Dataset01 (20)_flip.mp4,Kera
+split-videos/train\Saag\dataset 03 (5)_color_jitter.mp4,Saag
+split-videos/train\Naang\20241006_094223_flip.mp4,Naang
+split-videos/train\Kharayo\20241006_094343_speed_up.mp4,Kharayo
+split-videos/train\Saag\20241006_094105_brightness.mp4,Saag
+split-videos/train\Mahina\20241003_120819_rotate.mp4,Mahina
+split-videos/train\Baisakh\20241002_121133_color_jitter.mp4,Baisakh
+split-videos/train\Nariwal\20241003_115701_flip.mp4,Nariwal
+split-videos/train\Mahina\20241014_093632_flip.mp4,Mahina
+split-videos/train\Jestha\20241006_090517_flip.mp4,Jestha
+split-videos/train\Mahina\20241002_121057_speed_up.mp4,Mahina
+split-videos/train\Khairo\20241003_085715_noise.mp4,Khairo
+split-videos/train\Gundruk\20241002_104820_noise.mp4,Gundruk
+split-videos/train\Hariyo\20241002_104419_noise.mp4,Hariyo
+split-videos/train\Saag\dataset 03 (5)_noise.mp4,Saag
+split-videos/train\Naadi\20241002_112309_slow_down.mp4,Naadi
+split-videos/train\Saag\20241006_083308_rotate.mp4,Saag
+split-videos/train\Falful\20241014_092805_speed_up.mp4,Falful
+split-videos/train\Ghar\20241006_083407_slow_down.mp4,Ghar
+split-videos/train\Guy\20241008_094352_noise.mp4,Guy
+split-videos/train\Baisakh\20241002_121133_rotate.mp4,Baisakh
+split-videos/train\Hathi\20241008_091831_color_jitter.mp4,Hathi
+split-videos/train\Naadi\Dataset01 (14)_rotate.mp4,Naadi
+split-videos/train\Sungur\20241003_114826_slow_down.mp4,Sungur
+split-videos/train\Ghar\20241014_094026_slow_down.mp4,Ghar
+split-videos/train\Naadi\20241003_091428_flip.mp4,Naadi
+split-videos/train\Kharayo\Dataset01 (3)_speed_up.mp4,Kharayo
+split-videos/train\Baisakh\20241006_082424_noise.mp4,Baisakh
+split-videos/train\Hariyo\20241003_114416_noise.mp4,Hariyo
+split-videos/train\Shau\20241006_093952_rotate.mp4,Shau
+split-videos/train\Amilo\dataset 03 (2)_noise.mp4,Amilo
+split-videos/train\Sungur\20241008_091857_noise.mp4,Sungur
+split-videos/train\Guy\20241002_104953_rotate.mp4,Guy
+split-videos/train\Baisakh\20241003_115256_slow_down.mp4,Baisakh
+split-videos/train\Kharayo\20241003_091523_brightness.mp4,Kharayo
+split-videos/train\Nariwal\20241003_121122_rotate.mp4,Nariwal
+split-videos/train\Ghar\20241006_090918_brightness.mp4,Ghar
+split-videos/train\Hariyo\20241014_092643_flip.mp4,Hariyo
+split-videos/train\Ghar\20241002_112236_brightness.mp4,Ghar
+split-videos/train\Shau\20241001_152633_slow_down.mp4,Shau
+split-videos/train\Falful\20241008_100938_slow_down.mp4,Falful
+split-videos/train\Ghar\dataset 03 (11)_speed_up.mp4,Ghar
+split-videos/train\Saag\20241006_094105_rotate.mp4,Saag
+split-videos/train\Falful\20241003_091334_rotate.mp4,Falful
+split-videos/train\Jestha\20241003_091217_noise.mp4,Jestha
+split-videos/train\Hathi\20241002_112348_noise.mp4,Hathi
+split-videos/train\Ghar\20241002_112236_color_jitter.mp4,Ghar
+split-videos/train\Sungur\20241002_121752_flip.mp4,Sungur
+split-videos/train\Kharayo\20241003_121326_speed_up.mp4,Kharayo
+split-videos/train\Falful\20241003_085753_flip.mp4,Falful
+split-videos/train\Nariwal\20241006_083243_brightness.mp4,Nariwal
+split-videos/train\Guy\20241002_104953_speed_up.mp4,Guy
+split-videos/train\Falful\20241014_093907_color_jitter.mp4,Falful
+split-videos/train\Baisakh\20241014_092505_speed_up.mp4,Baisakh
+split-videos/train\Hariyo\20241003_085630_slow_down.mp4,Hariyo
+split-videos/train\Jestha\20241002_121200_color_jitter.mp4,Jestha
+split-videos/train\Jestha\20241002_111405_color_jitter.mp4,Jestha
+split-videos/train\Ghar\20241008_091749_rotate.mp4,Ghar
+split-videos/train\Falful\20241002_104518_brightness.mp4,Falful
+split-videos/train\Gundruk\20241003_121150_slow_down.mp4,Gundruk
+split-videos/train\Saag\Dataset01 (5)_rotate.mp4,Saag
+split-videos/train\Guy\20241003_115910_brightness.mp4,Guy
+split-videos/train\Guy\20241001_152941_speed_up.mp4,Guy
+split-videos/train\Ghar\20241003_121202_brightness.mp4,Ghar
+split-videos/train\Khairo\20241006_084850_slow_down.mp4,Khairo
+split-videos/train\Amilo\20241003_085616_flip.mp4,Amilo
+split-videos/train\Nariwal\20241002_121506_speed_up.mp4,Nariwal
+split-videos/train\Kera\20241014_093929_rotate.mp4,Kera
+split-videos/train\Guy\20241003_114813_color_jitter.mp4,Guy
+split-videos/train\Sungur\20241003_090102_noise.mp4,Sungur
+split-videos/train\Kera\20241002_112105_rotate.mp4,Kera
+split-videos/train\Guy\Dataset01 (11)_color_jitter.mp4,Guy
+split-videos/train\Kharayo\20241003_091523_color_jitter.mp4,Kharayo
+split-videos/train\Nariwal\20241014_093944_noise.mp4,Nariwal
+split-videos/train\Mahina\20241008_091425_speed_up.mp4,Mahina
+split-videos/train\Baisakh\20241002_104210_slow_down.mp4,Baisakh
+split-videos/train\Hariyo\20241002_121306_speed_up.mp4,Hariyo
+split-videos/train\Hathi\20241014_093111_rotate.mp4,Hathi
+split-videos/train\Amilo\20241006_084654_noise.mp4,Amilo
+split-videos/train\Kera\20241008_101314_brightness.mp4,Kera
+split-videos/train\Amilo\20241006_084654_flip.mp4,Amilo
+split-videos/train\Naadi\20241003_085941_noise.mp4,Naadi
+split-videos/train\Kera\20241006_090812_slow_down.mp4,Kera
+split-videos/train\Poush\20241003_114317_rotate.mp4,Poush
+split-videos/train\Mahina\20241002_104155_brightness.mp4,Mahina
+split-videos/train\Jestha\20241006_090517_noise.mp4,Jestha
+split-videos/train\Gundruk\20241006_094118_color_jitter.mp4,Gundruk
+split-videos/train\Naadi\20241008_101113_color_jitter.mp4,Naadi
+split-videos/train\Naang\20241014_093043_flip.mp4,Naang
+split-videos/train\Naang\20241006_083630_speed_up.mp4,Naang
+split-videos/train\Falful\20241003_114523_flip.mp4,Falful
+split-videos/train\Nariwal\20241006_094048_brightness.mp4,Nariwal
+split-videos/train\Hathi\20241008_091831_noise.mp4,Hathi
+split-videos/train\Naang\20241006_094223_slow_down.mp4,Naang
+split-videos/train\Hariyo\20241003_114416_slow_down.mp4,Hariyo
+split-videos/train\Baisakh\20241003_115256_noise.mp4,Baisakh
+split-videos/train\Falful\20241003_114523_slow_down.mp4,Falful
+split-videos/train\Naang\20241003_121235_rotate.mp4,Naang
+split-videos/train\Saag\20241002_104755_brightness.mp4,Saag
+split-videos/train\Ghar\20241008_094242_color_jitter.mp4,Ghar
+split-videos/train\Poush\20241006_090532_brightness.mp4,Poush
+split-videos/train\Shau\20241006_090711_brightness.mp4,Shau
+split-videos/train\Mahina\20241008_100734_rotate.mp4,Mahina
+split-videos/train\Saag\20241008_101024_color_jitter.mp4,Saag
+split-videos/train\Mahina\20241003_091140_rotate.mp4,Mahina
+split-videos/train\Kera\20241006_090812_rotate.mp4,Kera
+split-videos/train\Mahina\20241008_093817_noise.mp4,Mahina
+split-videos/train\Naang\Dataset02 (3)_slow_down.mp4,Naang
+split-videos/train\Amilo\20241014_093749_color_jitter.mp4,Amilo
+split-videos/train\Kharayo\20241003_090115_color_jitter.mp4,Kharayo
+split-videos/train\Saag\20241002_121527_speed_up.mp4,Saag
+split-videos/train\Naang\20241003_114745_speed_up.mp4,Naang
+split-videos/train\Shau\20241002_104457_flip.mp4,Shau
+split-videos/train\Saag\20241014_092939_brightness.mp4,Saag
+split-videos/train\Gundruk\20241008_091738_flip.mp4,Gundruk
+split-videos/train\Hathi\dataset 03 (14)_color_jitter.mp4,Hathi
+split-videos/train\Poush\20241002_111555_noise.mp4,Poush
+split-videos/train\Falful\20241008_094629_rotate.mp4,Falful
+split-videos/train\Baisakh\20241001_152325_slow_down.mp4,Baisakh
+split-videos/train\Saag\20241001_152823_brightness.mp4,Saag
+split-videos/train\Khairo\Dataset01 (9)_color_jitter.mp4,Khairo
+split-videos/train\Mahina\20241003_115230_noise.mp4,Mahina
+split-videos/train\Hariyo\20241006_082918_speed_up.mp4,Hariyo
+split-videos/train\Baisakh\20241006_093749_speed_up.mp4,Baisakh
+split-videos/train\Nariwal\dataset 03 (7)_noise.mp4,Nariwal
+split-videos/train\Nariwal\dataset 03 (7)_speed_up.mp4,Nariwal
+split-videos/train\Baisakh\Dataset02 (8)_noise.mp4,Baisakh
+split-videos/train\Amilo\dataset 03 (2)_slow_down.mp4,Amilo
+split-videos/train\Naadi\20241003_115819_slow_down.mp4,Naadi
+split-videos/train\Gundruk\dataset 03 (10)_slow_down.mp4,Gundruk
+split-videos/train\Gundruk\20241014_094010_rotate.mp4,Gundruk
+split-videos/train\Gundruk\20241002_112212_flip.mp4,Gundruk
+split-videos/train\Naadi\20241003_091428_rotate.mp4,Naadi
+split-videos/train\Khairo\20241008_091604_flip.mp4,Khairo
+split-videos/train\Baisakh\20241003_120831_rotate.mp4,Baisakh
+split-videos/train\Falful\20241002_111951_flip.mp4,Falful
+split-videos/train\Kharayo\20241003_121326_rotate.mp4,Kharayo
+split-videos/train\Shau\20241006_084540_brightness.mp4,Shau
+split-videos/train\Gundruk\20241003_085859_noise.mp4,Gundruk
+split-videos/train\Falful\20241006_094017_color_jitter.mp4,Falful
+split-videos/train\Mahina\20241014_092443_noise.mp4,Mahina
+split-videos/train\Falful\20241006_083109_noise.mp4,Falful
+split-videos/train\Saag\20241014_093956_noise.mp4,Saag
+split-videos/train\Poush\20241003_085559_slow_down.mp4,Poush
+split-videos/train\Nariwal\20241003_121122_slow_down.mp4,Nariwal
+split-videos/train\Gundruk\20241014_094010_speed_up.mp4,Gundruk
+split-videos/train\Naadi\Dataset02 (20)_slow_down.mp4,Naadi
+split-videos/train\Hariyo\20241003_120942_noise.mp4,Hariyo
+split-videos/train\Guy\20241014_094118_flip.mp4,Guy
+split-videos/train\Nariwal\20241003_114603_color_jitter.mp4,Nariwal
+split-videos/train\Guy\Dataset01 (11)_flip.mp4,Guy
+split-videos/train\Gundruk\20241003_091411_speed_up.mp4,Gundruk
+split-videos/train\Shau\dataset 03 (3)_rotate.mp4,Shau
+split-videos/train\Poush\20241002_111555_flip.mp4,Poush
+split-videos/train\Jestha\20241006_082542_color_jitter.mp4,Jestha
+split-videos/train\Baisakh\20241001_152325_brightness.mp4,Baisakh
+split-videos/train\Saag\20241008_094215_brightness.mp4,Saag
+split-videos/train\Falful\20241003_121040_brightness.mp4,Falful
+split-videos/train\Ghar\Dataset01 (4)_flip.mp4,Ghar
+split-videos/train\Ghar\20241003_091420_brightness.mp4,Ghar
+split-videos/train\Kharayo\20241014_093156_brightness.mp4,Kharayo
+split-videos/train\Naang\20241003_115834_brightness.mp4,Naang
+split-videos/train\Saag\20241001_152823_speed_up.mp4,Saag
+split-videos/train\Khairo\20241003_115444_noise.mp4,Khairo
+split-videos/train\Saag\20241002_104755_color_jitter.mp4,Saag
+split-videos/train\Kera\20241006_090812_color_jitter.mp4,Kera
+split-videos/train\Naang\Dataset02 (3)_color_jitter.mp4,Naang
+split-videos/train\Poush\20241014_093733_color_jitter.mp4,Poush
+split-videos/train\Khairo\dataset 03 (4)_flip.mp4,Khairo
+split-videos/train\Ghar\Dataset01 (4)_slow_down.mp4,Ghar
+split-videos/train\Naang\20241006_094223_brightness.mp4,Naang
+split-videos/train\Amilo\20241003_114358_slow_down.mp4,Amilo
+split-videos/train\Sungur\20241014_093143_brightness.mp4,Sungur
+split-videos/train\Khairo\20241014_093822_brightness.mp4,Khairo
+split-videos/train\Khairo\20241006_090654_slow_down.mp4,Khairo
+split-videos/train\Falful\20241006_083109_rotate.mp4,Falful
+split-videos/train\Naang\20241003_115834_rotate.mp4,Naang
+split-videos/train\Ghar\20241003_115801_noise.mp4,Ghar
+split-videos/train\Hathi\20241003_115854_speed_up.mp4,Hathi
+split-videos/train\Kera\dataset 03 (15)_color_jitter.mp4,Kera
+split-videos/train\Kera\Dataset02 (4)_noise.mp4,Kera
+split-videos/train\Hathi\20241003_115854_flip.mp4,Hathi
+split-videos/train\Mahina\dataset 03 (18)_speed_up.mp4,Mahina
+split-videos/train\Hariyo\Dataset02 (16)_color_jitter.mp4,Hariyo
+split-videos/train\Hariyo\20241002_121306_noise.mp4,Hariyo
+split-videos/train\Nariwal\20241003_121122_speed_up.mp4,Nariwal
+split-videos/train\Kera\20241008_101314_color_jitter.mp4,Kera
+split-videos/train\Naang\Dataset01 (6)_noise.mp4,Naang
+split-videos/train\Kharayo\20241008_094417_speed_up.mp4,Kharayo
+split-videos/train\Amilo\20241008_093927_flip.mp4,Amilo
+split-videos/train\Guy\20241008_091843_rotate.mp4,Guy
+split-videos/train\Sungur\20241014_094128_flip.mp4,Sungur
+split-videos/train\Ghar\Dataset02 (1)_speed_up.mp4,Ghar
+split-videos/train\Falful\20241003_114523_color_jitter.mp4,Falful
+split-videos/train\Khairo\20241002_111802_noise.mp4,Khairo
+split-videos/train\Shau\Dataset02 (11)_noise.mp4,Shau
+split-videos/train\Khairo\20241003_121000_color_jitter.mp4,Khairo
+split-videos/train\Saag\20241001_152823_rotate.mp4,Saag
+split-videos/train\Ghar\20241002_104835_rotate.mp4,Ghar
+split-videos/train\Khairo\20241003_115444_slow_down.mp4,Khairo
+split-videos/train\Gundruk\Dataset02 (15)_flip.mp4,Gundruk
+split-videos/train\Hariyo\20241006_093857_slow_down.mp4,Hariyo
+split-videos/train\Poush\20241008_100818_color_jitter.mp4,Poush
+split-videos/train\Naang\20241006_083630_noise.mp4,Naang
+split-videos/train\Baisakh\20241008_093838_rotate.mp4,Baisakh
+split-videos/train\Naadi\20241001_152909_noise.mp4,Naadi
+split-videos/train\Mahina\20241014_092443_speed_up.mp4,Mahina
+split-videos/train\Nariwal\dataset 03 (7)_brightness.mp4,Nariwal
+split-videos/train\Baisakh\20241008_091447_flip.mp4,Baisakh
+split-videos/train\Amilo\Dataset01 (1)_color_jitter.mp4,Amilo
+split-videos/train\Nariwal\Dataset01 (2)_color_jitter.mp4,Nariwal
+split-videos/train\Mahina\20241014_093632_brightness.mp4,Mahina
+split-videos/train\Baisakh\20241006_082424_speed_up.mp4,Baisakh
+split-videos/train\Jestha\20241003_085542_slow_down.mp4,Jestha
+split-videos/train\Kera\20241003_085814_rotate.mp4,Kera
+split-videos/train\Sungur\20241014_094128_slow_down.mp4,Sungur
+split-videos/train\Naang\20241002_112327_noise.mp4,Naang
+split-videos/train\Baisakh\20241003_114239_noise.mp4,Baisakh
+split-videos/train\Shau\20241003_114452_slow_down.mp4,Shau
+split-videos/train\Naang\20241003_091438_slow_down.mp4,Naang
+split-videos/train\Jestha\20241008_093854_rotate.mp4,Jestha
+split-videos/train\Nariwal\20241014_092910_color_jitter.mp4,Nariwal
+split-videos/train\Gundruk\20241002_121547_color_jitter.mp4,Gundruk
+split-videos/train\Shau\20241008_091616_slow_down.mp4,Shau
+split-videos/train\Khairo\20241006_093930_slow_down.mp4,Khairo
+split-videos/train\Naadi\20241014_094041_noise.mp4,Naadi
+split-videos/train\Naang\20241014_094053_rotate.mp4,Naang
+split-videos/train\Jestha\20241014_093706_brightness.mp4,Jestha
+split-videos/train\Hathi\Dataset01 (10)_rotate.mp4,Hathi
+split-videos/train\Naadi\20241006_083547_speed_up.mp4,Naadi
+split-videos/train\Ghar\20241003_121202_color_jitter.mp4,Ghar
+split-videos/train\Gundruk\20241002_112212_rotate.mp4,Gundruk
+split-videos/train\Ghar\20241003_085912_noise.mp4,Ghar
+split-videos/train\Hariyo\20241003_114416_color_jitter.mp4,Hariyo
+split-videos/train\Guy\20241014_094118_slow_down.mp4,Guy
+split-videos/train\Hathi\20241006_094238_color_jitter.mp4,Hathi
+split-videos/train\Khairo\20241003_121000_brightness.mp4,Khairo
+split-videos/train\Ghar\20241014_094026_color_jitter.mp4,Ghar
+split-videos/train\Saag\20241006_083308_brightness.mp4,Saag
+split-videos/train\Poush\20241002_111555_speed_up.mp4,Poush
+split-videos/train\Hariyo\20241008_100845_color_jitter.mp4,Hariyo
+split-videos/train\Naadi\20241001_152909_slow_down.mp4,Naadi
+split-videos/train\Ghar\20241002_121601_color_jitter.mp4,Ghar
+split-videos/train\Amilo\20241003_115353_rotate.mp4,Amilo
+split-videos/train\Jestha\Dataset02 (5)_rotate.mp4,Jestha
+split-videos/train\Guy\20241003_115910_rotate.mp4,Guy
+split-videos/train\Khairo\dataset 03 (4)_brightness.mp4,Khairo
+split-videos/train\Nariwal\Dataset01 (2)_speed_up.mp4,Nariwal
+split-videos/train\Naang\20241003_114745_flip.mp4,Naang
+split-videos/train\Poush\20241008_100818_brightness.mp4,Poush
+split-videos/train\Ghar\20241006_090918_rotate.mp4,Ghar
+split-videos/train\Kharayo\20241003_090115_speed_up.mp4,Kharayo
+split-videos/train\Baisakh\20241003_120831_slow_down.mp4,Baisakh
+split-videos/train\Gundruk\20241003_114656_rotate.mp4,Gundruk
+split-videos/train\Gundruk\20241014_094010_noise.mp4,Gundruk
+split-videos/train\Guy\20241014_093129_slow_down.mp4,Guy
+split-videos/train\Gundruk\20241001_152838_speed_up.mp4,Gundruk
+split-videos/train\Khairo\20241003_115444_flip.mp4,Khairo
+split-videos/train\Naang\Dataset01 (6)_brightness.mp4,Naang
+split-videos/train\Sungur\20241008_091857_brightness.mp4,Sungur
+split-videos/train\Ghar\20241003_115801_speed_up.mp4,Ghar
+split-videos/train\Mahina\dataset 03 (18)_slow_down.mp4,Mahina
+split-videos/train\Saag\20241008_091724_speed_up.mp4,Saag
+split-videos/train\Naadi\20241002_121624_rotate.mp4,Naadi
+split-videos/train\Ghar\20241003_114711_speed_up.mp4,Ghar
+split-videos/train\Khairo\20241006_090654_brightness.mp4,Khairo
+split-videos/train\Poush\20241014_093156_color_jitter.mp4,Poush
+split-videos/train\Falful\20241014_092805_brightness.mp4,Falful
+split-videos/train\Hariyo\20241006_093857_brightness.mp4,Hariyo
+split-videos/train\Kera\20241006_083147_speed_up.mp4,Kera
+split-videos/train\Nariwal\20241008_094202_speed_up.mp4,Nariwal
+split-videos/train\Jestha\Dataset02 (5)_noise.mp4,Jestha
+split-videos/train\Sungur\20241006_091040_color_jitter.mp4,Sungur
+split-videos/train\Naadi\20241002_121624_speed_up.mp4,Naadi
+split-videos/train\Naang\20241003_085957_slow_down.mp4,Naang
+split-videos/train\Jestha\20241008_100759_noise.mp4,Jestha
+split-videos/train\Amilo\Dataset01 (1)_rotate.mp4,Amilo
+split-videos/train\Ghar\Dataset02 (1)_slow_down.mp4,Ghar
+split-videos/train\Naang\20241014_093043_noise.mp4,Naang
+split-videos/train\Hathi\20241003_115854_color_jitter.mp4,Hathi
+split-videos/train\Hariyo\20241003_120942_slow_down.mp4,Hariyo
+split-videos/train\Naadi\20241006_094201_noise.mp4,Naadi
+split-videos/train\Baisakh\20241002_111535_speed_up.mp4,Baisakh
+split-videos/train\Hariyo\20241003_120942_brightness.mp4,Hariyo
+split-videos/train\Guy\20241002_121733_slow_down.mp4,Guy
+split-videos/train\Sungur\20241008_101208_color_jitter.mp4,Sungur
+split-videos/train\Hathi\20241008_094339_speed_up.mp4,Hathi
+split-videos/train\Saag\20241003_085844_noise.mp4,Saag
+split-videos/train\Ghar\20241002_112236_rotate.mp4,Ghar
+split-videos/train\Mahina\20241002_104155_color_jitter.mp4,Mahina
+split-videos/train\Kharayo\20241006_083737_noise.mp4,Kharayo
+split-videos/train\Baisakh\20241008_093838_noise.mp4,Baisakh
+split-videos/train\Shau\20241003_115529_brightness.mp4,Shau
+split-videos/train\Saag\20241003_114639_rotate.mp4,Saag
+split-videos/train\Hariyo\20241008_093942_slow_down.mp4,Hariyo
+split-videos/train\Nariwal\20241008_091712_flip.mp4,Nariwal
+split-videos/train\Ghar\20241003_121202_slow_down.mp4,Ghar
+split-videos/train\Gundruk\20241003_085859_rotate.mp4,Gundruk
+split-videos/train\Gundruk\dataset 03 (10)_rotate.mp4,Gundruk
+split-videos/train\Hathi\20241008_091831_rotate.mp4,Hathi
+split-videos/train\Naang\20241003_121235_color_jitter.mp4,Naang
+split-videos/train\Hathi\20241001_152926_brightness.mp4,Hathi
+split-videos/train\Guy\20241001_152941_brightness.mp4,Guy
+split-videos/train\Saag\20241008_091724_flip.mp4,Saag
+split-videos/train\Baisakh\20241002_104210_noise.mp4,Baisakh
+split-videos/train\Mahina\20241006_082331_noise.mp4,Mahina
+split-videos/train\Hathi\20241008_094339_brightness.mp4,Hathi
+split-videos/train\Khairo\20241006_093930_rotate.mp4,Khairo
+split-videos/train\Amilo\20241008_091534_color_jitter.mp4,Amilo
+split-videos/train\Falful\20241014_092805_noise.mp4,Falful
+split-videos/train\Saag\20241002_112152_noise.mp4,Saag
+split-videos/train\Jestha\20241008_091507_rotate.mp4,Jestha
+split-videos/train\Hathi\20241014_094105_color_jitter.mp4,Hathi
+split-videos/train\Guy\20241001_152941_noise.mp4,Guy
+split-videos/train\Ghar\20241006_094147_noise.mp4,Ghar
+split-videos/train\Sungur\20241002_112442_color_jitter.mp4,Sungur
+split-videos/train\Amilo\20241008_091534_speed_up.mp4,Amilo
+split-videos/train\Falful\20241008_094629_flip.mp4,Falful
+split-videos/train\Amilo\20241003_091237_flip.mp4,Amilo
+split-videos/train\Saag\20241008_094215_flip.mp4,Saag
+split-videos/train\Gundruk\20241001_152838_noise.mp4,Gundruk
+split-videos/train\Naadi\20241014_093021_flip.mp4,Naadi
+split-videos/train\Hariyo\20241002_121306_flip.mp4,Hariyo
+split-videos/train\Saag\dataset 03 (5)_speed_up.mp4,Saag
+split-videos/train\Kharayo\20241003_115946_brightness.mp4,Kharayo
+split-videos/train\Jestha\20241003_115320_brightness.mp4,Jestha
+split-videos/train\Falful\20241008_091634_noise.mp4,Falful
+split-videos/train\Ghar\20241014_093008_rotate.mp4,Ghar
+split-videos/train\Shau\Dataset02 (11)_slow_down.mp4,Shau
+split-videos/train\Gundruk\20241003_091411_color_jitter.mp4,Gundruk
+split-videos/train\Poush\20241006_093822_slow_down.mp4,Poush
+split-videos/train\Poush\20241006_090532_slow_down.mp4,Poush
+split-videos/train\Mahina\20241008_093817_color_jitter.mp4,Mahina
+split-videos/train\Guy\20241003_121306_color_jitter.mp4,Guy
+split-videos/train\Guy\20241006_091028_rotate.mp4,Guy
+split-videos/train\Naadi\20241014_093021_slow_down.mp4,Naadi
+split-videos/train\Baisakh\20241006_093749_brightness.mp4,Baisakh
+split-videos/train\Hariyo\20241003_085630_color_jitter.mp4,Hariyo
+split-videos/train\Poush\20241014_093733_speed_up.mp4,Poush
+split-videos/train\Baisakh\20241014_093646_color_jitter.mp4,Baisakh
+split-videos/train\Shau\20241014_093851_noise.mp4,Shau
+split-videos/train\Hathi\20241008_101140_rotate.mp4,Hathi
+split-videos/train\Amilo\20241003_114358_flip.mp4,Amilo
+split-videos/train\Kera\20241002_104645_slow_down.mp4,Kera
+split-videos/train\Naang\20241003_085957_speed_up.mp4,Naang
+split-videos/train\Sungur\20241014_093143_rotate.mp4,Sungur
+split-videos/train\Nariwal\20241003_114603_brightness.mp4,Nariwal
+split-videos/train\Jestha\20241001_152352_rotate.mp4,Jestha
+split-videos/train\Shau\20241006_090711_color_jitter.mp4,Shau
+split-videos/train\Kera\20241014_092838_noise.mp4,Kera
+split-videos/train\Guy\20241006_083706_brightness.mp4,Guy
+split-videos/train\Kera\20241006_094034_speed_up.mp4,Kera
+split-videos/train\Baisakh\20241006_090453_rotate.mp4,Baisakh
+split-videos/train\Ghar\20241014_093008_flip.mp4,Ghar
+split-videos/train\Nariwal\20241006_094048_noise.mp4,Nariwal
+split-videos/train\Khairo\20241002_121327_color_jitter.mp4,Khairo
+split-videos/train\Kharayo\20241006_091107_flip.mp4,Kharayo
+split-videos/train\Shau\20241006_090711_slow_down.mp4,Shau
+split-videos/train\Falful\Dataset01 (15)_speed_up.mp4,Falful
+split-videos/train\Baisakh\20241003_091207_color_jitter.mp4,Baisakh
+split-videos/train\Amilo\20241014_093749_rotate.mp4,Amilo
+split-videos/train\Kera\20241008_101314_rotate.mp4,Kera
+split-videos/train\Amilo\20241003_120921_speed_up.mp4,Amilo
+split-videos/train\Jestha\20241008_100759_color_jitter.mp4,Jestha
+split-videos/train\Khairo\20241003_085715_rotate.mp4,Khairo
+split-videos/train\Mahina\20241008_100734_color_jitter.mp4,Mahina
+split-videos/train\Shau\20241006_090711_rotate.mp4,Shau
+split-videos/train\Amilo\20241002_112728_noise.mp4,Amilo
+split-videos/train\Amilo\20241003_114358_noise.mp4,Amilo
+split-videos/train\Guy\20241014_093129_color_jitter.mp4,Guy
+split-videos/train\Ghar\20241008_091749_noise.mp4,Ghar
+split-videos/train\Hariyo\20241014_093802_noise.mp4,Hariyo
+split-videos/train\Saag\20241008_091724_noise.mp4,Saag
+split-videos/train\Amilo\20241006_090618_brightness.mp4,Amilo
+split-videos/train\Gundruk\20241008_091738_rotate.mp4,Gundruk
+split-videos/train\Falful\20241003_091334_speed_up.mp4,Falful
+split-videos/train\Hariyo\20241006_082918_color_jitter.mp4,Hariyo
+split-videos/train\Jestha\20241006_082542_noise.mp4,Jestha
+split-videos/train\Kharayo\20241002_105042_flip.mp4,Kharayo
+split-videos/train\Naadi\20241008_101113_rotate.mp4,Naadi
+split-videos/train\Hariyo\20241001_152548_noise.mp4,Hariyo
+split-videos/train\Nariwal\Dataset02 (14)_brightness.mp4,Nariwal
+split-videos/train\Kera\Dataset01 (20)_speed_up.mp4,Kera
+split-videos/train\Khairo\20241002_111802_brightness.mp4,Khairo
+split-videos/train\Baisakh\20241003_115256_brightness.mp4,Baisakh
+split-videos/train\Guy\20241003_114813_speed_up.mp4,Guy
+split-videos/train\Shau\20241003_121017_noise.mp4,Shau
+split-videos/train\Sungur\Dataset01 (19)_noise.mp4,Sungur
+split-videos/train\Shau\20241008_100913_brightness.mp4,Shau
+split-videos/train\Amilo\20241008_091534_flip.mp4,Amilo
+split-videos/train\Baisakh\20241008_093838_speed_up.mp4,Baisakh
+split-videos/train\Shau\20241003_121017_color_jitter.mp4,Shau
+split-videos/train\Baisakh\20241006_082424_rotate.mp4,Baisakh
+split-videos/train\Saag\20241003_115728_flip.mp4,Saag
+split-videos/train\Poush\20241008_093909_slow_down.mp4,Poush
+split-videos/train\Kera\20241003_114547_slow_down.mp4,Kera
+split-videos/train\Amilo\20241008_093927_slow_down.mp4,Amilo
+split-videos/train\Khairo\20241014_092719_speed_up.mp4,Khairo
+split-videos/train\Nariwal\20241008_094202_noise.mp4,Nariwal
+split-videos/train\Guy\20241008_094352_brightness.mp4,Guy
+split-videos/train\Hathi\20241006_094238_flip.mp4,Hathi
+split-videos/train\Shau\Dataset01 (16)_flip.mp4,Shau
+split-videos/train\Jestha\20241001_152352_speed_up.mp4,Jestha
+split-videos/train\Ghar\20241002_121601_speed_up.mp4,Ghar
+split-videos/train\Baisakh\20241014_093646_rotate.mp4,Baisakh
+split-videos/train\Falful\20241008_091634_flip.mp4,Falful
+split-videos/train\Shau\20241006_093952_noise.mp4,Shau
+split-videos/train\Jestha\20241006_093802_color_jitter.mp4,Jestha
+split-videos/train\Shau\20241006_090711_noise.mp4,Shau
+split-videos/train\Shau\20241002_104457_brightness.mp4,Shau
+split-videos/train\Khairo\Dataset01 (9)_rotate.mp4,Khairo
+split-videos/train\Saag\Dataset02 (17)_speed_up.mp4,Saag
+split-videos/train\Nariwal\20241002_121506_brightness.mp4,Nariwal
+split-videos/train\Baisakh\dataset 03 (6)_speed_up.mp4,Baisakh
+split-videos/train\Kharayo\20241003_090115_brightness.mp4,Kharayo
+split-videos/train\Guy\20241003_090032_slow_down.mp4,Guy
+split-videos/train\Hathi\20241008_101140_speed_up.mp4,Hathi
+split-videos/train\Hathi\20241014_094105_flip.mp4,Hathi
+split-videos/train\Kera\20241008_091655_flip.mp4,Kera
+split-videos/train\Mahina\20241008_093817_speed_up.mp4,Mahina
+split-videos/train\Poush\20241003_085559_color_jitter.mp4,Poush
+split-videos/train\Poush\20241006_093822_brightness.mp4,Poush
+split-videos/train\Kera\20241006_094034_rotate.mp4,Kera
+split-videos/train\Kharayo\20241014_093156_noise.mp4,Kharayo
+split-videos/train\Hariyo\Dataset02 (16)_noise.mp4,Hariyo
+split-videos/train\Gundruk\20241003_114656_noise.mp4,Gundruk
+split-videos/train\Falful\20241008_100938_speed_up.mp4,Falful
+split-videos/train\Hariyo\20241008_100845_speed_up.mp4,Hariyo
+split-videos/train\Jestha\20241006_093802_brightness.mp4,Jestha
+split-videos/train\Falful\20241001_152707_slow_down.mp4,Falful
+split-videos/train\Sungur\dataset 03 (9)_color_jitter.mp4,Sungur
+split-videos/train\Kera\20241003_091342_noise.mp4,Kera
+split-videos/train\Kera\20241002_104645_noise.mp4,Kera
+split-videos/train\Falful\20241014_093907_flip.mp4,Falful
+split-videos/train\Kharayo\20241008_101220_color_jitter.mp4,Kharayo
+split-videos/train\Sungur\20241003_091511_color_jitter.mp4,Sungur
+split-videos/train\Hathi\20241002_121708_color_jitter.mp4,Hathi
+split-videos/train\Jestha\20241006_090517_color_jitter.mp4,Jestha
+split-videos/train\Gundruk\Dataset01 (17)_brightness.mp4,Gundruk
+split-videos/train\Falful\20241014_092805_flip.mp4,Falful
+split-videos/train\Ghar\20241003_114711_flip.mp4,Ghar
+split-videos/train\Gundruk\Dataset01 (17)_speed_up.mp4,Gundruk
+split-videos/train\Kera\dataset 03 (15)_noise.mp4,Kera
+split-videos/train\Hariyo\20241008_091552_rotate.mp4,Hariyo
+split-videos/train\Hathi\20241002_121708_flip.mp4,Hathi
+split-videos/train\Hathi\20241006_094238_noise.mp4,Hathi
+split-videos/train\Sungur\20241014_094128_color_jitter.mp4,Sungur
+split-videos/train\Khairo\20241008_091604_speed_up.mp4,Khairo
+split-videos/train\Hathi\20241001_152926_speed_up.mp4,Hathi
+split-videos/train\Gundruk\20241006_083351_color_jitter.mp4,Gundruk
+split-videos/train\Hathi\Dataset01 (10)_slow_down.mp4,Hathi
+split-videos/train\Poush\20241003_085559_rotate.mp4,Poush
+split-videos/train\Mahina\Dataset01 (13)_slow_down.mp4,Mahina
+split-videos/train\Shau\20241008_091616_color_jitter.mp4,Shau
+split-videos/train\Ghar\20241008_094242_brightness.mp4,Ghar
+split-videos/train\Hathi\Dataset02 (2)_flip.mp4,Hathi
+split-videos/train\Hathi\20241003_114759_slow_down.mp4,Hathi
+split-videos/train\Poush\20241002_104330_rotate.mp4,Poush
+split-videos/train\Kera\20241003_085814_noise.mp4,Kera
+split-videos/train\Gundruk\20241006_094118_flip.mp4,Gundruk
+split-videos/train\Hariyo\20241002_111737_rotate.mp4,Hariyo
+split-videos/train\Poush\20241008_100818_speed_up.mp4,Poush
+split-videos/train\Baisakh\Dataset01 (8)_flip.mp4,Baisakh
+split-videos/train\Kharayo\20241006_094343_slow_down.mp4,Kharayo
+split-videos/train\Guy\20241001_152941_rotate.mp4,Guy
+split-videos/train\Khairo\20241002_121327_noise.mp4,Khairo
+split-videos/train\Amilo\20241008_100833_slow_down.mp4,Amilo
+split-videos/train\Sungur\20241014_094128_speed_up.mp4,Sungur
+split-videos/train\Baisakh\20241002_104210_speed_up.mp4,Baisakh
+split-videos/train\Falful\20241002_121409_speed_up.mp4,Falful
+split-videos/train\Nariwal\20241008_091712_rotate.mp4,Nariwal
+split-videos/train\Kharayo\20241014_093156_speed_up.mp4,Kharayo
+split-videos/train\Gundruk\20241006_094118_speed_up.mp4,Gundruk
+split-videos/train\Ghar\20241003_115801_flip.mp4,Ghar
+split-videos/train\Jestha\dataset 03 (20)_color_jitter.mp4,Jestha
+split-videos/train\Guy\20241008_094352_slow_down.mp4,Guy
+split-videos/train\Hathi\20241001_152926_color_jitter.mp4,Hathi
+split-videos/train\Mahina\Dataset02 (18)_rotate.mp4,Mahina
+split-videos/train\Kharayo\20241002_121814_flip.mp4,Kharayo
+split-videos/train\Hathi\20241002_112348_color_jitter.mp4,Hathi
+split-videos/train\Khairo\20241001_152614_brightness.mp4,Khairo
+split-videos/train\Saag\20241014_092939_rotate.mp4,Saag
+split-videos/train\Naadi\Dataset01 (14)_flip.mp4,Naadi
+split-videos/train\Shau\20241001_152633_noise.mp4,Shau
+split-videos/train\Khairo\20241003_121000_slow_down.mp4,Khairo
+split-videos/train\Nariwal\20241002_104734_speed_up.mp4,Nariwal
+split-videos/train\Kharayo\20241006_083737_slow_down.mp4,Kharayo
+split-videos/train\Guy\20241003_090032_flip.mp4,Guy
+split-videos/train\Baisakh\dataset 03 (6)_rotate.mp4,Baisakh
+split-videos/train\Jestha\20241006_082542_flip.mp4,Jestha
+split-videos/train\Mahina\Dataset02 (18)_speed_up.mp4,Mahina
+split-videos/train\Ghar\20241003_114711_slow_down.mp4,Ghar
+split-videos/train\Ghar\20241002_112236_speed_up.mp4,Ghar
+split-videos/train\Falful\20241014_093907_speed_up.mp4,Falful
+split-videos/train\Jestha\20241003_120846_slow_down.mp4,Jestha
+split-videos/train\Amilo\20241003_085616_rotate.mp4,Amilo
+split-videos/train\Kera\Dataset02 (4)_speed_up.mp4,Kera
+split-videos/train\Amilo\20241003_091237_speed_up.mp4,Amilo
+split-videos/train\Baisakh\20241003_085517_slow_down.mp4,Baisakh
+split-videos/train\Shau\20241001_152633_speed_up.mp4,Shau
+split-videos/train\Baisakh\20241001_152325_color_jitter.mp4,Baisakh
+split-videos/train\Naang\20241014_093043_slow_down.mp4,Naang
+split-videos/train\Hariyo\20241002_111737_speed_up.mp4,Hariyo
+split-videos/train\Naang\Dataset01 (6)_flip.mp4,Naang
+split-videos/train\Saag\20241003_091401_noise.mp4,Saag
+split-videos/train\Naang\20241003_121235_flip.mp4,Naang
+split-videos/train\Hariyo\20241003_085630_speed_up.mp4,Hariyo
+split-videos/train\Naadi\20241003_121221_speed_up.mp4,Naadi
+split-videos/train\Amilo\20241008_100833_flip.mp4,Amilo
+split-videos/train\Saag\20241001_152823_flip.mp4,Saag
+split-videos/train\Falful\20241003_115610_slow_down.mp4,Falful
+split-videos/train\Mahina\Dataset01 (13)_noise.mp4,Mahina
+split-videos/train\Kera\20241008_091655_speed_up.mp4,Kera
+split-videos/train\Falful\20241008_091634_color_jitter.mp4,Falful
+split-videos/train\Guy\20241002_112412_rotate.mp4,Guy
+split-videos/train\Khairo\20241003_121000_noise.mp4,Khairo
+split-videos/train\Khairo\20241003_114431_rotate.mp4,Khairo
+split-videos/train\Ghar\20241006_083407_noise.mp4,Ghar
+split-videos/train\Gundruk\20241002_121547_flip.mp4,Gundruk
+split-videos/train\Gundruk\20241001_152838_flip.mp4,Gundruk
+split-videos/train\Amilo\20241003_091237_slow_down.mp4,Amilo
+split-videos/train\Naang\20241008_094311_rotate.mp4,Naang
+split-videos/train\Hariyo\20241006_082918_slow_down.mp4,Hariyo
+split-videos/train\Nariwal\20241008_091712_brightness.mp4,Nariwal
+split-videos/train\Falful\20241003_091334_noise.mp4,Falful
+split-videos/train\Saag\20241002_112152_slow_down.mp4,Saag
+split-videos/train\Falful\20241006_090751_noise.mp4,Falful
+split-videos/train\Falful\dataset 03 (8)_color_jitter.mp4,Falful
+split-videos/train\Naadi\20241002_105324_color_jitter.mp4,Naadi
+split-videos/train\Baisakh\20241003_114239_speed_up.mp4,Baisakh
+split-videos/train\Poush\Dataset02 (19)_speed_up.mp4,Poush
+split-videos/train\Sungur\20241003_121315_flip.mp4,Sungur
+split-videos/train\Hathi\20241003_121251_color_jitter.mp4,Hathi
+split-videos/train\Sungur\20241006_094319_brightness.mp4,Sungur
+split-videos/train\Ghar\20241008_091749_color_jitter.mp4,Ghar
+split-videos/train\Naadi\20241002_112309_rotate.mp4,Naadi
+split-videos/train\Nariwal\20241008_094202_slow_down.mp4,Nariwal
+split-videos/train\Poush\dataset 03 (13)_flip.mp4,Poush
+split-videos/train\Kera\Dataset02 (4)_color_jitter.mp4,Kera
+split-videos/train\Guy\20241001_152941_flip.mp4,Guy
+split-videos/train\Amilo\20241008_091534_brightness.mp4,Amilo
+split-videos/train\Hathi\20241008_091831_slow_down.mp4,Hathi
+split-videos/train\Kera\20241006_083147_slow_down.mp4,Kera
+split-videos/train\Khairo\20241002_111802_rotate.mp4,Khairo
+split-videos/train\Guy\20241003_114813_slow_down.mp4,Guy
+split-videos/train\Naadi\dataset 03 (12)_flip.mp4,Naadi
+split-videos/train\Kharayo\20241003_090115_slow_down.mp4,Kharayo
+split-videos/train\Khairo\20241008_093956_flip.mp4,Khairo
+split-videos/train\Naadi\20241006_094201_slow_down.mp4,Naadi
+split-videos/train\Saag\20241003_085844_speed_up.mp4,Saag
+split-videos/train\Shau\20241001_152633_rotate.mp4,Shau
+split-videos/train\Nariwal\20241003_121122_brightness.mp4,Nariwal
+split-videos/train\Saag\20241008_101024_speed_up.mp4,Saag
+split-videos/train\Jestha\20241002_121200_slow_down.mp4,Jestha
+split-videos/train\Gundruk\20241003_091411_flip.mp4,Gundruk
+split-videos/train\Hathi\20241003_114759_brightness.mp4,Hathi
+split-videos/train\Falful\20241008_100938_color_jitter.mp4,Falful
+split-videos/train\Falful\20241003_091334_flip.mp4,Falful
+split-videos/train\Sungur\20241008_094405_color_jitter.mp4,Sungur
+split-videos/train\Hathi\20241003_115854_rotate.mp4,Hathi
+split-videos/train\Amilo\20241008_093927_rotate.mp4,Amilo
+split-videos/train\Naadi\20241006_094201_flip.mp4,Naadi
+split-videos/train\Naang\20241003_114745_noise.mp4,Naang
+split-videos/train\Hathi\20241002_112348_slow_down.mp4,Hathi
+split-videos/train\Saag\20241008_094215_rotate.mp4,Saag
+split-videos/train\Hathi\20241002_121708_slow_down.mp4,Hathi
+split-videos/train\Guy\20241002_104953_flip.mp4,Guy
+split-videos/train\Naadi\Dataset02 (20)_speed_up.mp4,Naadi
+split-videos/train\Naadi\20241008_094258_brightness.mp4,Naadi
+split-videos/train\Sungur\20241003_090102_color_jitter.mp4,Sungur
+split-videos/train\Saag\20241003_091401_color_jitter.mp4,Saag
+split-videos/train\Kharayo\20241014_094141_slow_down.mp4,Kharayo
+split-videos/train\Falful\20241003_085753_color_jitter.mp4,Falful
+split-videos/train\Mahina\20241006_082331_slow_down.mp4,Mahina
+split-videos/train\Nariwal\20241008_094202_rotate.mp4,Nariwal
+split-videos/train\Mahina\20241008_093817_rotate.mp4,Mahina
+split-videos/train\Kharayo\20241008_101220_speed_up.mp4,Kharayo
+split-videos/train\Khairo\20241003_085715_slow_down.mp4,Khairo
+split-videos/train\Nariwal\20241003_085829_flip.mp4,Nariwal
+split-videos/train\Saag\20241006_090850_slow_down.mp4,Saag
+split-videos/train\Naang\20241014_094053_color_jitter.mp4,Naang
+split-videos/train\Ghar\20241003_085912_color_jitter.mp4,Ghar
+split-videos/train\Hariyo\20241006_082918_brightness.mp4,Hariyo
+split-videos/train\Nariwal\20241003_085829_rotate.mp4,Nariwal
+split-videos/train\Naang\20241006_090956_slow_down.mp4,Naang
+split-videos/train\Kera\20241001_152736_noise.mp4,Kera
+split-videos/train\Ghar\20241003_115801_color_jitter.mp4,Ghar
+split-videos/train\Mahina\dataset 03 (18)_brightness.mp4,Mahina
+split-videos/train\Sungur\Dataset01 (19)_rotate.mp4,Sungur
+split-videos/train\Mahina\20241003_091140_noise.mp4,Mahina
+split-videos/train\Naadi\Dataset02 (20)_brightness.mp4,Naadi
+split-videos/train\Poush\20241002_104330_color_jitter.mp4,Poush
+split-videos/train\Naadi\20241003_114728_brightness.mp4,Naadi
+split-videos/train\Poush\20241006_090532_flip.mp4,Poush
+split-videos/train\Gundruk\20241003_121150_flip.mp4,Gundruk
+split-videos/train\Guy\20241008_094352_speed_up.mp4,Guy
+split-videos/train\Nariwal\20241006_090828_brightness.mp4,Nariwal
+split-videos/train\Hariyo\Dataset01 (7)_color_jitter.mp4,Hariyo
+split-videos/train\Falful\20241002_104518_rotate.mp4,Falful
+split-videos/train\Shau\20241003_114452_speed_up.mp4,Shau
+split-videos/train\Shau\20241003_091326_color_jitter.mp4,Shau
+split-videos/train\Poush\20241008_100818_slow_down.mp4,Poush
+split-videos/train\Naang\20241008_094311_flip.mp4,Naang
+split-videos/train\Khairo\20241014_092719_rotate.mp4,Khairo
+split-videos/train\Kharayo\20241002_112500_rotate.mp4,Kharayo
+split-videos/train\Amilo\20241002_121249_flip.mp4,Amilo
+split-videos/train\Hariyo\Dataset01 (7)_flip.mp4,Hariyo
+split-videos/train\Falful\20241002_104518_flip.mp4,Falful
+split-videos/train\Saag\20241003_091401_slow_down.mp4,Saag
+split-videos/train\Khairo\20241001_152614_color_jitter.mp4,Khairo
+split-videos/train\Amilo\20241014_093749_speed_up.mp4,Amilo
+split-videos/train\Hariyo\20241003_114416_brightness.mp4,Hariyo
+split-videos/train\Kharayo\20241003_091523_rotate.mp4,Kharayo
+split-videos/train\Sungur\dataset 03 (9)_speed_up.mp4,Sungur
+split-videos/train\Kharayo\20241002_112500_color_jitter.mp4,Kharayo
+split-videos/train\Nariwal\20241006_083243_rotate.mp4,Nariwal
+split-videos/train\Nariwal\20241014_093944_brightness.mp4,Nariwal
+split-videos/train\Jestha\20241002_104255_brightness.mp4,Jestha
+split-videos/train\Nariwal\20241006_090828_noise.mp4,Nariwal
+split-videos/train\Shau\20241008_100913_slow_down.mp4,Shau
+split-videos/train\Shau\20241001_152633_brightness.mp4,Shau
+split-videos/train\Saag\20241014_092939_slow_down.mp4,Saag
+split-videos/train\Jestha\20241003_115320_color_jitter.mp4,Jestha
+split-videos/train\Shau\20241003_121017_slow_down.mp4,Shau
+split-videos/train\Naang\20241003_114745_brightness.mp4,Naang
+split-videos/train\Mahina\20241003_085500_rotate.mp4,Mahina
+split-videos/train\Poush\20241008_091520_brightness.mp4,Poush
+split-videos/train\Poush\20241002_104330_flip.mp4,Poush
+split-videos/train\Saag\20241006_090850_rotate.mp4,Saag
+split-videos/train\Khairo\20241008_100859_slow_down.mp4,Khairo
+split-videos/train\Naang\dataset 03 (19)_speed_up.mp4,Naang
+split-videos/train\Falful\20241003_121040_color_jitter.mp4,Falful
+split-videos/train\Saag\20241006_090850_brightness.mp4,Saag
+split-videos/train\Gundruk\20241002_121547_brightness.mp4,Gundruk
+split-videos/train\Naadi\20241014_094041_slow_down.mp4,Naadi
+split-videos/train\Sungur\20241002_112442_flip.mp4,Sungur
+split-videos/train\Baisakh\20241008_093838_slow_down.mp4,Baisakh
+split-videos/train\Sungur\20241008_091857_speed_up.mp4,Sungur
+split-videos/train\Kera\20241003_121106_slow_down.mp4,Kera
+split-videos/train\Mahina\20241014_093632_rotate.mp4,Mahina
+split-videos/train\Saag\Dataset01 (5)_speed_up.mp4,Saag
+split-videos/train\Hariyo\20241002_104419_color_jitter.mp4,Hariyo
+split-videos/train\Kera\Dataset01 (20)_noise.mp4,Kera
+split-videos/train\Poush\Dataset01 (12)_rotate.mp4,Poush
+split-videos/train\Gundruk\20241002_121547_rotate.mp4,Gundruk
+split-videos/train\Jestha\20241003_091217_rotate.mp4,Jestha
+split-videos/train\Ghar\20241014_093008_color_jitter.mp4,Ghar
+split-videos/train\Nariwal\20241008_101009_color_jitter.mp4,Nariwal
+split-videos/train\Kharayo\20241008_091911_slow_down.mp4,Kharayo
+split-videos/train\Nariwal\20241002_104734_brightness.mp4,Nariwal
+split-videos/train\Ghar\Dataset01 (4)_color_jitter.mp4,Ghar
+split-videos/train\Jestha\20241002_111405_flip.mp4,Jestha
+split-videos/train\Amilo\20241002_112728_brightness.mp4,Amilo
+split-videos/train\Naang\20241008_091819_noise.mp4,Naang
+split-videos/train\Mahina\20241006_090436_rotate.mp4,Mahina
+split-videos/train\Kharayo\20241002_121814_speed_up.mp4,Kharayo
+split-videos/train\Kharayo\20241003_115946_color_jitter.mp4,Kharayo
+split-videos/train\Mahina\20241008_093817_flip.mp4,Mahina
+split-videos/train\Falful\20241002_111951_slow_down.mp4,Falful
+split-videos/train\Hariyo\20241002_121306_brightness.mp4,Hariyo
+split-videos/train\Kharayo\Dataset02 (10)_flip.mp4,Kharayo
+split-videos/train\Poush\20241008_091520_noise.mp4,Poush
+split-videos/train\Sungur\20241006_094319_flip.mp4,Sungur
+split-videos/train\Poush\20241006_082626_color_jitter.mp4,Poush
+split-videos/train\Ghar\20241014_094026_rotate.mp4,Ghar
+split-videos/train\Jestha\Dataset01 (18)_rotate.mp4,Jestha
+split-videos/train\Nariwal\20241006_094048_rotate.mp4,Nariwal
+split-videos/train\Saag\20241008_101024_brightness.mp4,Saag
+split-videos/train\Baisakh\20241006_093749_flip.mp4,Baisakh
+split-videos/train\Gundruk\20241003_085859_flip.mp4,Gundruk
+split-videos/train\Mahina\20241006_093732_speed_up.mp4,Mahina
+split-videos/train\Mahina\20241003_120819_flip.mp4,Mahina
+split-videos/train\Baisakh\20241006_082424_brightness.mp4,Baisakh
+split-videos/train\Mahina\20241003_115230_speed_up.mp4,Mahina
+split-videos/train\Ghar\20241008_101056_brightness.mp4,Ghar
+split-videos/train\Ghar\20241003_121202_speed_up.mp4,Ghar
+split-videos/train\Sungur\Dataset01 (19)_brightness.mp4,Sungur
+split-videos/train\Guy\20241003_091501_rotate.mp4,Guy
+split-videos/train\Sungur\20241008_091857_slow_down.mp4,Sungur
+split-videos/train\Mahina\20241003_115230_flip.mp4,Mahina
+split-videos/train\Baisakh\20241003_120831_brightness.mp4,Baisakh
+split-videos/train\Sungur\20241014_094128_noise.mp4,Sungur
+split-videos/train\Hathi\20241003_121251_noise.mp4,Hathi
+split-videos/train\Hathi\20241014_093111_speed_up.mp4,Hathi
+split-videos/train\Kharayo\20241002_105042_rotate.mp4,Kharayo
+split-videos/train\Khairo\20241003_091255_noise.mp4,Khairo
+split-videos/train\Saag\20241002_104755_noise.mp4,Saag
+split-videos/train\Kera\20241002_104645_speed_up.mp4,Kera
+split-videos/train\Falful\20241001_152707_brightness.mp4,Falful
+split-videos/train\Kharayo\20241006_091107_noise.mp4,Kharayo
+split-videos/train\Hathi\20241006_091015_rotate.mp4,Hathi
+split-videos/train\Hathi\20241006_091015_brightness.mp4,Hathi
+split-videos/train\Sungur\20241008_101208_rotate.mp4,Sungur
+split-videos/train\Khairo\20241006_093930_color_jitter.mp4,Khairo
+split-videos/train\Kharayo\20241003_115946_slow_down.mp4,Kharayo
+split-videos/train\Saag\20241008_094215_color_jitter.mp4,Saag
+split-videos/train\Kharayo\Dataset02 (10)_slow_down.mp4,Kharayo
+split-videos/train\Ghar\20241006_094147_flip.mp4,Ghar
+split-videos/train\Hathi\20241003_114759_rotate.mp4,Hathi
+split-videos/train\Mahina\20241001_153334_rotate.mp4,Mahina
+split-videos/train\Kharayo\20241002_112500_slow_down.mp4,Kharayo
+split-videos/train\Naadi\20241008_101113_noise.mp4,Naadi
+split-videos/train\Kera\20241002_121447_flip.mp4,Kera
+split-videos/train\Khairo\20241003_085715_flip.mp4,Khairo
+split-videos/train\Jestha\20241003_085542_color_jitter.mp4,Jestha
+split-videos/train\Naang\20241008_094311_slow_down.mp4,Naang
+split-videos/train\Naadi\20241008_094258_slow_down.mp4,Naadi
+split-videos/train\Poush\20241003_120902_color_jitter.mp4,Poush
+split-videos/train\Hariyo\20241003_115417_speed_up.mp4,Hariyo
+split-videos/train\Sungur\dataset 03 (9)_flip.mp4,Sungur
+split-videos/train\Saag\20241003_085844_slow_down.mp4,Saag
+split-videos/train\Falful\20241008_100938_noise.mp4,Falful
+split-videos/train\Mahina\20241008_100734_brightness.mp4,Mahina
+split-videos/train\Naang\20241006_083630_rotate.mp4,Naang
+split-videos/train\Saag\20241014_092939_noise.mp4,Saag
+split-videos/train\Poush\20241006_093822_flip.mp4,Poush
+split-videos/train\Gundruk\20241003_091411_slow_down.mp4,Gundruk
+split-videos/train\Jestha\20241003_115320_flip.mp4,Jestha
+split-videos/train\Shau\Dataset02 (11)_flip.mp4,Shau
+split-videos/train\Kharayo\20241003_121326_flip.mp4,Kharayo
+split-videos/train\Ghar\20241003_115801_slow_down.mp4,Ghar
+split-videos/train\Gundruk\20241001_152838_slow_down.mp4,Gundruk
+split-videos/train\Poush\20241003_120902_flip.mp4,Poush
+split-videos/train\Naang\20241002_104920_slow_down.mp4,Naang
+split-videos/train\Gundruk\Dataset02 (15)_brightness.mp4,Gundruk
+split-videos/train\Khairo\20241006_093930_brightness.mp4,Khairo
+split-videos/train\Guy\20241002_121733_color_jitter.mp4,Guy
+split-videos/train\Falful\20241002_111951_color_jitter.mp4,Falful
+split-videos/train\Naadi\20241002_121624_color_jitter.mp4,Naadi
+split-videos/train\Nariwal\20241006_094048_speed_up.mp4,Nariwal
+split-videos/train\Hariyo\Dataset01 (7)_rotate.mp4,Hariyo
+split-videos/train\Naang\20241003_121235_slow_down.mp4,Naang
+split-videos/train\Shau\20241002_104457_noise.mp4,Shau
+split-videos/train\Guy\20241008_091843_slow_down.mp4,Guy
+split-videos/train\Nariwal\Dataset02 (14)_noise.mp4,Nariwal
+split-videos/train\Ghar\20241002_104835_flip.mp4,Ghar
+split-videos/train\Falful\20241003_121040_slow_down.mp4,Falful
+split-videos/train\Gundruk\20241008_094608_rotate.mp4,Gundruk
+split-videos/train\Mahina\20241006_090436_speed_up.mp4,Mahina
+split-videos/train\Kharayo\20241014_093156_slow_down.mp4,Kharayo
+split-videos/train\Kharayo\dataset 03 (17)_color_jitter.mp4,Kharayo
+split-videos/train\Amilo\20241008_100833_brightness.mp4,Amilo
+split-videos/train\Naang\20241002_104920_color_jitter.mp4,Naang
+split-videos/train\Guy\20241006_094307_noise.mp4,Guy
+split-videos/train\Shau\20241002_121343_slow_down.mp4,Shau
+split-videos/train\Nariwal\20241003_114603_rotate.mp4,Nariwal
+split-videos/train\Naadi\Dataset01 (14)_speed_up.mp4,Naadi
+split-videos/train\Falful\20241006_083109_color_jitter.mp4,Falful
+split-videos/train\Falful\Dataset02 (7)_brightness.mp4,Falful
+split-videos/train\Nariwal\20241014_093944_speed_up.mp4,Nariwal
+split-videos/train\Naang\20241002_121652_speed_up.mp4,Naang
+split-videos/train\Kharayo\20241006_094343_rotate.mp4,Kharayo
+split-videos/train\Baisakh\20241003_120831_flip.mp4,Baisakh
+split-videos/train\Guy\20241006_083706_speed_up.mp4,Guy
+split-videos/train\Ghar\20241002_104835_color_jitter.mp4,Ghar
+split-videos/train\Naadi\20241003_114728_noise.mp4,Naadi
+split-videos/train\Hathi\20241003_091446_brightness.mp4,Hathi
+split-videos/train\Guy\20241003_091501_slow_down.mp4,Guy
+split-videos/train\Kharayo\20241006_083737_brightness.mp4,Kharayo
+split-videos/train\Guy\20241003_114813_flip.mp4,Guy
+split-videos/train\Falful\20241014_092805_slow_down.mp4,Falful
+split-videos/train\Sungur\20241003_091511_speed_up.mp4,Sungur
+split-videos/train\Jestha\dataset 03 (20)_slow_down.mp4,Jestha
+split-videos/train\Ghar\20241006_094147_color_jitter.mp4,Ghar
+split-videos/train\Amilo\20241003_085616_noise.mp4,Amilo
+split-videos/train\Kharayo\Dataset02 (10)_color_jitter.mp4,Kharayo
+split-videos/train\Khairo\Dataset01 (9)_noise.mp4,Khairo
+split-videos/train\Hathi\20241014_094105_speed_up.mp4,Hathi
+split-videos/train\Hathi\20241002_121708_speed_up.mp4,Hathi
+split-videos/train\Jestha\20241008_093854_noise.mp4,Jestha
+split-videos/train\Baisakh\20241003_091207_noise.mp4,Baisakh
+split-videos/train\Khairo\20241002_121327_speed_up.mp4,Khairo
+split-videos/train\Sungur\20241001_152959_noise.mp4,Sungur
+split-videos/train\Hathi\20241008_101140_noise.mp4,Hathi
+split-videos/train\Baisakh\20241003_085517_noise.mp4,Baisakh
+split-videos/train\Baisakh\20241014_092505_brightness.mp4,Baisakh
+split-videos/train\Guy\20241006_091028_brightness.mp4,Guy
+split-videos/train\Shau\20241003_114452_flip.mp4,Shau
+split-videos/train\Hathi\20241003_091446_slow_down.mp4,Hathi
+split-videos/train\Naadi\20241008_091800_brightness.mp4,Naadi
+split-videos/train\Mahina\20241006_090436_color_jitter.mp4,Mahina
+split-videos/train\Baisakh\20241014_092505_rotate.mp4,Baisakh
+split-videos/train\Sungur\20241001_152959_brightness.mp4,Sungur
+split-videos/train\Hariyo\20241006_090638_slow_down.mp4,Hariyo
+split-videos/train\Nariwal\20241006_083243_speed_up.mp4,Nariwal
+split-videos/train\Gundruk\20241014_092954_brightness.mp4,Gundruk
+split-videos/train\Gundruk\20241006_083351_rotate.mp4,Gundruk
+split-videos/train\Baisakh\20241006_090453_brightness.mp4,Baisakh
+split-videos/train\Poush\20241008_093909_color_jitter.mp4,Poush
+split-videos/train\Naang\Dataset02 (3)_rotate.mp4,Naang
+split-videos/train\Kharayo\dataset 03 (17)_speed_up.mp4,Kharayo
+split-videos/train\Hariyo\20241008_091552_flip.mp4,Hariyo
+split-videos/train\Falful\20241006_083109_slow_down.mp4,Falful
+split-videos/train\Amilo\20241008_093927_speed_up.mp4,Amilo
+split-videos/train\Ghar\20241006_090918_color_jitter.mp4,Ghar
+split-videos/train\Khairo\Dataset01 (9)_brightness.mp4,Khairo
+split-videos/train\Nariwal\20241003_115701_brightness.mp4,Nariwal
+split-videos/train\Kharayo\Dataset01 (3)_slow_down.mp4,Kharayo
+split-videos/train\Kera\20241003_091342_flip.mp4,Kera
+split-videos/train\Hathi\20241006_091015_speed_up.mp4,Hathi
+split-videos/train\Shau\20241002_111824_rotate.mp4,Shau
+split-videos/train\Naang\20241006_090956_flip.mp4,Naang
+split-videos/train\Saag\20241006_094105_slow_down.mp4,Saag
+split-videos/train\Jestha\20241008_091507_color_jitter.mp4,Jestha
+split-videos/train\Gundruk\20241002_104820_speed_up.mp4,Gundruk
+split-videos/train\Kera\20241001_152736_slow_down.mp4,Kera
+split-videos/train\Saag\Dataset02 (17)_rotate.mp4,Saag
+split-videos/train\Gundruk\20241002_121547_speed_up.mp4,Gundruk
+split-videos/train\Poush\20241001_152413_speed_up.mp4,Poush
+split-videos/train\Khairo\20241014_093822_noise.mp4,Khairo
+split-videos/train\Jestha\20241008_100759_slow_down.mp4,Jestha
+split-videos/train\Mahina\20241008_091425_brightness.mp4,Mahina
+split-videos/train\Sungur\20241003_121315_brightness.mp4,Sungur
+split-videos/train\Gundruk\20241003_091411_brightness.mp4,Gundruk
+split-videos/train\Mahina\20241002_111452_rotate.mp4,Mahina
+split-videos/train\Kharayo\20241006_083737_flip.mp4,Kharayo
+split-videos/train\Gundruk\Dataset02 (15)_slow_down.mp4,Gundruk
+split-videos/train\Mahina\20241014_092443_slow_down.mp4,Mahina
+split-videos/train\Sungur\20241006_094319_noise.mp4,Sungur
+split-videos/train\Sungur\20241003_114826_brightness.mp4,Sungur
+split-videos/train\Hariyo\20241003_115417_flip.mp4,Hariyo
+split-videos/train\Kharayo\20241001_153014_color_jitter.mp4,Kharayo
+split-videos/train\Nariwal\Dataset02 (14)_speed_up.mp4,Nariwal
+split-videos/train\Guy\20241006_094307_speed_up.mp4,Guy
+split-videos/train\Amilo\20241008_093927_color_jitter.mp4,Amilo
+split-videos/train\Amilo\20241014_093749_flip.mp4,Amilo
+split-videos/train\Naadi\20241003_114728_speed_up.mp4,Naadi
+split-videos/train\Kera\dataset 03 (15)_slow_down.mp4,Kera
+split-videos/train\Saag\20241003_091401_rotate.mp4,Saag
+split-videos/train\Khairo\20241006_090654_color_jitter.mp4,Khairo
+split-videos/train\Naadi\dataset 03 (12)_slow_down.mp4,Naadi
+split-videos/train\Jestha\20241008_091507_brightness.mp4,Jestha
+split-videos/train\Poush\20241003_085559_noise.mp4,Poush
+split-videos/train\Sungur\20241006_083721_rotate.mp4,Sungur
+split-videos/train\Gundruk\20241008_094608_slow_down.mp4,Gundruk
+split-videos/train\Gundruk\20241003_121150_speed_up.mp4,Gundruk
+split-videos/train\Hariyo\20241014_092643_rotate.mp4,Hariyo
+split-videos/train\Mahina\Dataset01 (13)_color_jitter.mp4,Mahina
+split-videos/train\Kera\20241003_085814_color_jitter.mp4,Kera
+split-videos/train\Falful\20241008_100938_flip.mp4,Falful
+split-videos/train\Hariyo\20241008_100845_flip.mp4,Hariyo
+split-videos/train\Guy\20241008_091843_flip.mp4,Guy
+split-videos/train\Sungur\20241003_091511_flip.mp4,Sungur
+split-videos/train\Kera\20241008_094124_rotate.mp4,Kera
+split-videos/train\Kharayo\20241003_091523_speed_up.mp4,Kharayo
+split-videos/train\Khairo\20241002_104443_rotate.mp4,Khairo
+split-videos/train\Naadi\20241014_093021_color_jitter.mp4,Naadi
+split-videos/train\Amilo\Dataset01 (1)_noise.mp4,Amilo
+split-videos/train\Sungur\20241006_083721_speed_up.mp4,Sungur
+split-videos/train\Mahina\20241002_111452_speed_up.mp4,Mahina
+split-videos/train\Mahina\Dataset01 (13)_flip.mp4,Mahina
+split-videos/train\Ghar\dataset 03 (11)_color_jitter.mp4,Ghar
+split-videos/train\Kera\20241006_083147_noise.mp4,Kera
+split-videos/train\Falful\20241003_115610_rotate.mp4,Falful
+split-videos/train\Kera\20241003_114547_noise.mp4,Kera
+split-videos/train\Baisakh\20241006_090453_slow_down.mp4,Baisakh
+split-videos/train\Khairo\20241008_100859_rotate.mp4,Khairo
+split-videos/train\Naadi\20241002_121624_flip.mp4,Naadi
+split-videos/train\Guy\20241002_112412_flip.mp4,Guy
+split-videos/train\Khairo\Dataset02 (12)_slow_down.mp4,Khairo
+split-videos/train\Poush\20241003_120902_speed_up.mp4,Poush
+split-videos/train\Naang\20241008_091819_speed_up.mp4,Naang
+split-videos/train\Amilo\20241001_152509_color_jitter.mp4,Amilo
+split-videos/train\Poush\20241014_093156_slow_down.mp4,Poush
+split-videos/train\Hathi\20241008_101140_brightness.mp4,Hathi
+split-videos/train\Mahina\20241003_085500_brightness.mp4,Mahina
+split-videos/train\Amilo\20241014_092627_rotate.mp4,Amilo
+split-videos/train\Naang\20241014_094053_flip.mp4,Naang
+split-videos/train\Kharayo\20241003_115946_rotate.mp4,Kharayo
+split-videos/train\Mahina\dataset 03 (18)_rotate.mp4,Mahina
+split-videos/train\Amilo\20241003_091237_color_jitter.mp4,Amilo
+split-videos/train\Hathi\20241008_094339_flip.mp4,Hathi
+split-videos/train\Sungur\Dataset01 (19)_flip.mp4,Sungur
+split-videos/train\Guy\20241003_121306_rotate.mp4,Guy
+split-videos/train\Nariwal\20241003_114603_noise.mp4,Nariwal
+split-videos/train\Shau\20241014_093851_speed_up.mp4,Shau
+split-videos/train\Hathi\20241008_091831_flip.mp4,Hathi
+split-videos/train\Hariyo\Dataset01 (7)_slow_down.mp4,Hariyo
+split-videos/train\Kera\20241008_091655_brightness.mp4,Kera
+split-videos/train\Khairo\20241002_104443_noise.mp4,Khairo
+split-videos/train\Ghar\20241003_091420_rotate.mp4,Ghar
+split-videos/train\Falful\20241008_094629_noise.mp4,Falful
+split-videos/train\Naadi\20241003_115819_brightness.mp4,Naadi
+split-videos/train\Falful\20241008_094629_slow_down.mp4,Falful
+split-videos/train\Guy\20241006_094307_flip.mp4,Guy
+split-videos/train\Poush\20241003_091227_slow_down.mp4,Poush
+split-videos/train\Sungur\20241002_112442_noise.mp4,Sungur
+split-videos/train\Kera\20241008_094124_noise.mp4,Kera
+split-videos/train\Naang\20241008_101128_noise.mp4,Naang
+split-videos/train\Sungur\20241002_105015_brightness.mp4,Sungur
+split-videos/train\Jestha\20241006_082542_brightness.mp4,Jestha
+split-videos/train\Saag\20241014_093956_brightness.mp4,Saag
+split-videos/train\Khairo\20241003_114431_speed_up.mp4,Khairo
+split-videos/train\Hariyo\20241002_111737_flip.mp4,Hariyo
+split-videos/train\Baisakh\20241002_104210_flip.mp4,Baisakh
+split-videos/train\Falful\20241001_152707_noise.mp4,Falful
+split-videos/train\Jestha\20241003_085542_speed_up.mp4,Jestha
+split-videos/train\Falful\20241003_115610_speed_up.mp4,Falful
+split-videos/train\Saag\Dataset02 (17)_noise.mp4,Saag
+split-videos/train\Naang\20241008_091819_brightness.mp4,Naang
+split-videos/train\Jestha\20241002_111405_noise.mp4,Jestha
+split-videos/train\Falful\20241008_091634_rotate.mp4,Falful
+split-videos/train\Amilo\20241003_115353_color_jitter.mp4,Amilo
+split-videos/train\Kera\20241006_090812_noise.mp4,Kera
+split-videos/train\Amilo\20241014_093749_noise.mp4,Amilo
+split-videos/train\Hathi\dataset 03 (14)_brightness.mp4,Hathi
+split-videos/train\Shau\20241002_121343_noise.mp4,Shau
+split-videos/train\Sungur\20241008_094405_speed_up.mp4,Sungur
+split-videos/train\Sungur\20241002_112442_speed_up.mp4,Sungur
+split-videos/train\Jestha\20241006_093802_noise.mp4,Jestha
+split-videos/train\Naang\20241003_091438_brightness.mp4,Naang
+split-videos/train\Jestha\20241006_082542_slow_down.mp4,Jestha
+split-videos/train\Kera\20241002_112105_color_jitter.mp4,Kera
+split-videos/train\Naadi\20241014_093021_speed_up.mp4,Naadi
+split-videos/train\Kera\20241003_121106_speed_up.mp4,Kera
+split-videos/train\Saag\20241003_121137_flip.mp4,Saag
+split-videos/train\Jestha\20241008_100759_speed_up.mp4,Jestha
+split-videos/train\Jestha\20241008_100759_flip.mp4,Jestha
+split-videos/train\Amilo\20241003_115353_flip.mp4,Amilo
+split-videos/train\Gundruk\20241003_114656_brightness.mp4,Gundruk
+split-videos/train\Saag\20241002_121527_slow_down.mp4,Saag
+split-videos/train\Amilo\20241003_120921_color_jitter.mp4,Amilo
+split-videos/train\Poush\20241003_085559_flip.mp4,Poush
+split-videos/train\Shau\20241003_121017_brightness.mp4,Shau
+split-videos/train\Baisakh\Dataset02 (8)_brightness.mp4,Baisakh
+split-videos/train\Hariyo\20241003_091247_slow_down.mp4,Hariyo
+split-videos/train\Saag\20241003_114639_speed_up.mp4,Saag
+split-videos/train\Poush\20241006_082626_rotate.mp4,Poush
+split-videos/train\Gundruk\20241008_101041_noise.mp4,Gundruk
+split-videos/train\Hariyo\20241003_085630_noise.mp4,Hariyo
+split-videos/train\Guy\20241008_101153_color_jitter.mp4,Guy
+split-videos/train\Hathi\20241006_094238_speed_up.mp4,Hathi
+split-videos/train\Hariyo\dataset 03 (16)_flip.mp4,Hariyo
+split-videos/train\Jestha\20241014_093706_rotate.mp4,Jestha
+split-videos/train\Sungur\Dataset02 (9)_brightness.mp4,Sungur
+split-videos/train\Baisakh\20241008_091447_rotate.mp4,Baisakh
+split-videos/train\Guy\20241006_083706_rotate.mp4,Guy
+split-videos/train\Naadi\Dataset02 (20)_noise.mp4,Naadi
+split-videos/train\Hariyo\20241003_115417_slow_down.mp4,Hariyo
+split-videos/train\Saag\20241006_094105_noise.mp4,Saag
+split-videos/train\Kera\20241001_152736_flip.mp4,Kera
+split-videos/train\Nariwal\20241002_104734_slow_down.mp4,Nariwal
+split-videos/train\Kera\20241003_114547_flip.mp4,Kera
+split-videos/train\Sungur\20241003_091511_brightness.mp4,Sungur
+split-videos/train\Naang\20241002_121652_color_jitter.mp4,Naang
+split-videos/train\Sungur\20241006_091040_rotate.mp4,Sungur
